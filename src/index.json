@@ -1,0 +1,2643 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Amber",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Lisa",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Kaeya",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Barbara",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Bennett",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Fischl",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Xiangling",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Qiqi",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Chongyun",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Mona",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Keqing",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Diluc",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Beidou",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Jean",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Venti",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Klee",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Ningguang",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Noelle",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Razor",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Sucrose",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Xingqiu",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Diona",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Tartaglia",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Xinyan",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Zhongli",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Albedo",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Ganyu",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Xiao",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Hu Tao",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Rosaria",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Yanfei",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Eula",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Kaedehara Kazuha",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Kamisato Ayaka",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Sayu",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Yoimiya",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Kujou Sara",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Raiden Shogun",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Sangonomiya Kokomi",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Thoma",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Gorou",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Arataki Itto",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Shenhe",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Yun Jin",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Yae Miko",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Kamisato Ayato",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Yelan",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Kuki Shinobu",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Shikanoin Heizou",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Collei",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Tighnari",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Dori",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Candace",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Cyno",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Nilou",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Nahida",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Layla",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Wanderer",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Faruzan",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Yaoyao",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Alhaitham",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Dehya",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Mika",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Kaveh",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Baizhu",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Kirara",
+            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "showcase": null,
+            "rarity": 4,
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonious",
+            "nation": "Mondstadt",
+            "vision": "Pyro",
+            "constellation": "Lepus",
+            "weapon": [
+                {
+                    "type": "Bow",
+                    "signature": "Elegy for the End"
+                }
+            ],
+            "artifacts": "Emblem of Severed Fate",
+            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "talents": [
+                {
+                    "name": "Sharpshooter",
+                    "type": "Normal Attack",
+                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
+                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                },
+                {
+                    "name": "Explosive Puppet",
+                    "type": "Elemental Skill",
+                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                },
+                {
+                    "name": "Fiery Rain",
+                    "type": "Elemental Burst",
+                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                }
+            ]
+        }
+    ]
+}
