@@ -1,0 +1,189 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Teko', sans-serif;
+}
+
+.home,
+.character-page {
+    display: block;
+    flex-direction: column;
+    height: 90vh;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+/* Home Page Styling */
+
+#banner-image img {
+    position: relative;
+    max-width: 100%;
+    height: 100%;
+}
+
+.banner-image {
+    vertical-align: bottom;
+    position: absolute;
+    max-width: 100%;
+    height: auto;
+}
+
+.page-break {
+    height: 3px;
+    background: #2e2e2e;
+}
+
+/* Character Page Styling */
+
+.side-banner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background: linear-gradient(to right, #2e2e2e, #3d3d3d);
+}
+
+.side-banner {
+    position: relative;
+    height: 50vh;
+    overflow: hidden;
+  }
+  
+  .side-banner img {
+    position: relative;
+    display: block;
+    height: 100%;
+    width: auto;
+  }
+
+  .banner-text-underlay {
+    position: absolute; /* Position the text overlay */
+    max-width: 100%;
+    display: flex;
+    transform: translate(-50%, -50%); /* Center the text overlay */
+    z-index: 1; /* Set a higher z-index to appear above the background */
+    color: #fff; /* Set the text color */
+    font-size: 100px;
+    transform: translate(0%, 50%);
+    top: 40%;
+    left: 10%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8),
+               0 0 20px rgba(255, 255, 255, 0.5),
+               0 0 30px rgba(255, 255, 255, 0.3),
+               0 0 40px rgba(255, 255, 255, 0.2),
+               0 0 50px rgba(255, 255, 255, 0.1);
+  }
+
+/* Pyro Button Styling */
+.pyro .character-panel {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pyro .character-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(to right, #fd672b, #fff);
+    color: #fff;
+    border: none;
+}
+
+.pyro .character-btn:hover {
+    background: #2e2e2e;
+    backface-visibility: hidden;
+}
+
+.pyro .character-btn button {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pyro .text-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    font-size: 32px;
+    width: 166px;
+    height: auto;
+}
+
+.pyro .character-btn img {
+    margin-right: 10px;
+    width: 95px;
+    height: 95px;
+}
+
+.pyro .spacer {
+    flex-grow: 1;
+}
+
+.pyro .vision-icon {
+    margin-left: 10px;
+    width: 95px;
+    height: 95px
+}
+
+/* Electro Button Styling */
+.electro .character-panel {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.electro .character-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(to right, #8425c4, #fff);
+    color: #fff;
+    border: none;
+}
+
+.electro .character-btn:hover {
+    background: #2e2e2e;
+    cursor: pointer;
+}
+
+.electro .character-btn button {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.electro .text-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    font-size: 32px;
+    width: 166px;
+    height: auto;
+}
+
+.electro .character-btn img {
+    margin-right: 10px;
+    width: 95px;
+    height: 95px;
+}
+
+.electro .spacer {
+    flex-grow: 1;
+}
+
+.electro .vision-icon {
+    margin-left: 10px;
+    width: 95px;
+    height: 95px
+}

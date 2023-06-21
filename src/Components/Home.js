@@ -1,9 +1,18 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
+import CharacterPanel from './CharacterPanel.js';
+import TravelerImage from '../images/genshin-impact-traveler-featured-image.png';
 
-function Home() {
-  return (
-    <div>Home</div>
-  )
+function Home( {characters} ) {
+
+    return (
+        <div className='home'>
+            <div id="banner-image">
+                <img className="banner-image" src={TravelerImage} alt="traveler-banner" />
+            </div>
+            <div className='page-break'></div>
+            <CharacterPanel characters={characters} />
+        </div>
+    )
 }
 
 export default Home

@@ -1,8 +1,18 @@
 import React from 'react'
+import '../stylesheets/App.css'
 
-function CharacterPage() {
+function CharacterPage({ character }) {
+  const { artwork, name } = character
+
   return (
-    <div>CharacterPage</div>
+    <div className='side-banner-container'>
+      <div className='side-banner'>
+        <img src={artwork} className='side-banner-image'/>
+      </div>
+      <div>
+        <p className='banner-text-underlay'>{name}</p>
+      </div>
+    </div>
   )
 }
 

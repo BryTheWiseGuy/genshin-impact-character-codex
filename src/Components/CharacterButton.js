@@ -1,11 +1,29 @@
-import React from 'react'
+import React from 'react';
+import { Link } from 'react-router-dom';
+import '../stylesheets/App.css';
 
-function CharacterButton() {
+function CharacterButton({ character }) {
+  const { icon, name, visionIcon, vision } = character;
+
   return (
-    <div>CharacterButton</div>
+    <div className={vision}>
+      <button className='character-btn shared-class'>
+        <div style={{position: 'relative', display: 'flex', alignItems: 'center'}}>
+          <img src={icon} alt={name} />
+          <div className='text-container'>
+            <Link
+              className='dropdown-link shared-class'
+              to={`/characters/${name}`}
+            >
+              {name}
+            </Link>
+          </div>
+        </div>
+        <div className='spacer'></div>
+        <img className='vision-icon' src={visionIcon}/>
+      </button>
+    </div>
   )
 }
 
 export default CharacterButton
-
-//This component renders all of the character buttons on the homepage that route the user to the specific character page

@@ -3,14 +3,15 @@
         {
             "id": 1,
             "name": "Amber",
-            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
             "showcase": null,
             "rarity": 4,
             "title": "Gliding Champion",
             "affiliation": "Knights of Favonious",
             "nation": "Mondstadt",
-            "vision": "Pyro",
+            "vision": "pyro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
             "constellation": "Lepus",
             "weapon": [
                 {
@@ -42,14 +43,14 @@
         {
             "id": 2,
             "name": "Lisa",
-            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/06/lisa-electro-character-genshin-impact-1.webp",
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
             "showcase": null,
             "rarity": 4,
             "title": "Gliding Champion",
             "affiliation": "Knights of Favonious",
             "nation": "Mondstadt",
-            "vision": "Pyro",
+            "vision": "electro",
             "constellation": "Lepus",
             "weapon": [
                 {
@@ -1282,7 +1283,7 @@
         {
             "id": 33,
             "name": "Kaedehara Kazuha",
-            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/05/kazuha-anemo-profile-genshin-impact-1.webp",
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
             "showcase": null,
             "rarity": 4,
@@ -1522,7 +1523,7 @@
         {
             "id": 39,
             "name": "Sangonomiya Kokomi",
-            "artwork": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png/revision/latest/scale-to-width-down/1000?cb=20201119223905",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/05/sangonomiya-kokomi-profile-genshin-impact-1.webp",
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
             "showcase": null,
             "rarity": 4,
