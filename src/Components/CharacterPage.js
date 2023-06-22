@@ -1,17 +1,26 @@
 import React from 'react'
+import CharacterCard from './CharacterCard'
 import '../stylesheets/App.css'
+import Navbar from './Navbar'
 
-function CharacterPage({ character }) {
+function CharacterPage({ character, characters, setCurrentCharacter }) {
   const { artwork, name } = character
 
+  console.log(character)
+
   return (
-    <div className='side-banner-container'>
-      <div className='side-banner'>
-        <img src={artwork} className='side-banner-image'/>
+    <div className='character-page'>
+      <div className='top-banner-container'>
+        <div className='top-banner'>
+          <img src={artwork} className='top-banner-image' alt='top-banner-img'/>
+        </div>
+        <div>
+          <p className='banner-text-underlay'>{name}</p>
+        </div>
       </div>
-      <div>
-        <p className='banner-text-underlay'>{name}</p>
-      </div>
+      {/* <div className='top-banner-spacer'></div> */}
+      <Navbar characters={characters} onSetCurrentCharacter={setCurrentCharacter} />
+      <CharacterCard character={character} />
     </div>
   )
 }

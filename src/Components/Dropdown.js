@@ -42,7 +42,7 @@ function Dropdown({ characters, onMenuClick, onSetCurrentCharacter }) {
                             {isActive && (
                                 <ul className='submenu'>
                                     {characters.map(() => {
-                                        <li key={id}>
+                                        return <li key={id}>
                                             <Link
                                                 className='dropdown-link'
                                                 to={`/characters/${name}`}

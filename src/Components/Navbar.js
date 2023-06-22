@@ -29,49 +29,34 @@ function Navbar({ characters, onSetCurrentCharacter }) {
   return (
     <>
       <nav className='navbar'>
-        <Link
-          to='/'
-          className='navbar-logo'>
+        <Link to='/' className='navbar-logo'>
           Genshin.Codex
         </Link>
         <div className='menu-icon' onClick={handleClick}>
           <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
         </div>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
+        <li className='nav-item'>
+            <Link className='nav-links' onClick={closeMobileMenu}>
+              <i class='fa-sharp fa-solid fa-magnifying-glass'/>
+            </Link>
+          </li>
           <li className='nav-item'>
-            <Link
-              to='/'
-              className='nav-links'
-              onClick={closeMobileMenu}>
+            <Link to='/' className='nav-links' onClick={closeMobileMenu}>
               Home
             </Link>
           </li>
-          <li className='nav-item'
-          onMouseEnter={onMouseEnter}
-          onMouseLeave={onMouseLeave}
-          >
-            <Link
-              className='nav-links'
-              onClick={() => setDropdown(prev => !prev)}
-            >
+          <li className='nav-item'>
+            <Link className='nav-links' onClick={closeMobileMenu}>
+              New Character
+            </Link>
+          </li>
+          <li className='nav-item' onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave}>
+            <Link className='nav-links' onClick={() => setDropdown(prev => !prev)}>
               Characters <i className={dropdown ? 'fas fa-caret-down' : 'fas fa-caret-left'} />
             </Link>
             {dropdown && <Dropdown onMenuClick={closeMobileMenu} characters={characters} onSetCurrentCharacter={onSetCurrentCharacter}/>}
           </li>
-          <li className='nav-item'>
-            <Link
-              className='nav-links'
-              onClick={closeMobileMenu}>
-              New Character
-            </Link>
-          </li>
-          <li className='nav-item'>
-            <Link
-              className='nav-links'
-              onClick={closeMobileMenu}>
-              <i class="fa-sharp fa-solid fa-magnifying-glass"/>
-            </Link>
-        </li>
         </ul>
       </nav>
     </>

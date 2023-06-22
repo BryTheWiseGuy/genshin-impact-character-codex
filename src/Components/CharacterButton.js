@@ -9,7 +9,7 @@ function CharacterButton({ character }) {
     <div className={vision}>
       <button className='character-btn shared-class'>
         <div style={{position: 'relative', display: 'flex', alignItems: 'center'}}>
-          <img src={icon} alt={name} />
+          <img src={icon} alt={name}/>
           <div className='text-container'>
             <Link
               className='dropdown-link shared-class'
@@ -20,7 +20,7 @@ function CharacterButton({ character }) {
           </div>
         </div>
         <div className='spacer'></div>
-        <img className='vision-icon' src={visionIcon}/>
+        <img className='vision-icon' src={visionIcon} alt='vision-icon'/>
       </button>
     </div>
   )

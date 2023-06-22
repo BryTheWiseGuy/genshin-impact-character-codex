@@ -21,10 +21,15 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Navbar characters={characters} onSetCurrentCharacter={setCurrentCharacter}/>
         <Routes>
-          <Route path='/' element={<Home characters={characters} />} exact />
-          <Route path='/characters/:characterName' element={<CharacterPage character={currentCharacter} />} exact />
+          <Route path='/' element={
+            <>
+              <Navbar characters={characters} onSetCurrentCharacter={setCurrentCharacter} />
+              <Home characters={characters} />
+            </>
+          } 
+          exact />
+          <Route path='/characters/:characterName' element={<CharacterPage characters={characters} character={currentCharacter} setCurrentCharacter={setCurrentCharacter} />} exact />
         </Routes>
       </Router>
     </div>

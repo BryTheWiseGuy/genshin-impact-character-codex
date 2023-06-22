@@ -5,7 +5,8 @@
             "name": "Amber",
             "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "showcase": null,
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
             "rarity": 4,
             "title": "Gliding Champion",
             "affiliation": "Knights of Favonious",
@@ -44,39 +45,40 @@
             "id": 2,
             "name": "Lisa",
             "artwork": "https://genshin.global/wp-content/uploads/2022/06/lisa-electro-character-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png/revision/latest?cb=20210621072652",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png/",
             "showcase": null,
             "rarity": 4,
-            "title": "Gliding Champion",
+            "title": "Witch of Purple Rose",
             "affiliation": "Knights of Favonious",
             "nation": "Mondstadt",
             "vision": "electro",
-            "constellation": "Lepus",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg/",
+            "constellation": "Tempus Fugit",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "type": "Catalyst",
+                    "signature": "Kagura's Verity"
                 }
             ],
             "artifacts": "Emblem of Severed Fate",
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Lightning Touch",
                     "type": "Normal Attack",
-                    "normal": "Normal Attack: Performs up to 5 consecutive shots with a bow.",
-                    "charged": "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
-                    "plunging": "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+                    "normal": "Normal Attack: Perform up to 4 lightning attacks that deal Electro DMG.",
+                    "charged": "Charged Attack: Consumes a certain amount of Stamina to deal AoE Electro DMG after a short casting time.",
+                    "plunging": "Plunging Attack: Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Electro DMG upon impact with the ground."
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Violet Arc",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG."
+                    "description": "Channels the power of lightning to sweep bothersome matters away.\nPress: Releases a homing Lightning Orb. On hit, it deals Electro DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE.\nHold: After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby enemies.Deals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status."
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Lightning Rose",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG."
+                    "description": "Summons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding enemies and dealing Electro DMG.\n\nThe Lightning Rose will continuously emit lightning to knock back enemies and deal Electro DMG for so long as it persists."
                 }
             ]
         },

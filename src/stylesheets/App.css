@@ -9,7 +9,7 @@
 .character-page {
     display: block;
     flex-direction: column;
-    height: 90vh;
+    height: 100%;
     justify-content: center;
     font-size: 3rem;
 }
@@ -25,7 +25,7 @@
 .banner-image {
     vertical-align: bottom;
     position: absolute;
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
 
@@ -36,34 +36,44 @@
 
 /* Character Page Styling */
 
-.side-banner-container {
+.top-banner-container {
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
     background: linear-gradient(to right, #2e2e2e, #3d3d3d);
+    box-shadow: 0px 1px 3px 2px #2e2e2e;
 }
 
-.side-banner {
+.top-banner {
     position: relative;
     height: 50vh;
     overflow: hidden;
   }
   
-  .side-banner img {
+  .top-banner img {
     position: relative;
     display: block;
     height: 100%;
     width: auto;
   }
 
+  .top-banner-spacer {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 13px;
+    background: #2e2e2e;
+  }
+
+
   .banner-text-underlay {
-    position: absolute; /* Position the text overlay */
+    position: absolute; 
     max-width: 100%;
     display: flex;
-    transform: translate(-50%, -50%); /* Center the text overlay */
-    z-index: 1; /* Set a higher z-index to appear above the background */
-    color: #fff; /* Set the text color */
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    color: #fff;
     font-size: 100px;
     transform: translate(0%, 50%);
     top: 40%;
@@ -76,6 +86,51 @@
                0 0 30px rgba(255, 255, 255, 0.3),
                0 0 40px rgba(255, 255, 255, 0.2),
                0 0 50px rgba(255, 255, 255, 0.1);
+  }
+
+  .showcase-media {
+    position: relative;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+  }
+
+  .character-showcase {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  .bottom-video-spacer {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 13px;
+    background: linear-gradient(to right, #2e2e2e, #3d3d3d);
+  }
+
+  .character-card {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 800px;
+    overflow-y: hidden;
+    z-index: -1;
+  }
+
+  .character-card-side-banner {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(to bottom, #3d3d3d, #fff);
+  }
+
+  .side-banner {
+    position: relative;
+    height: 100%;
   }
 
 /* Pyro Button Styling */

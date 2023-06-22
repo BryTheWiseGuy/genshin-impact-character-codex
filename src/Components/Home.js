@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import CharacterPanel from './CharacterPanel.js';
 import TravelerImage from '../images/genshin-impact-traveler-featured-image.png';
 
