@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Teko', sans-serif;
+    font-weight: 600;
 }
 
 .home,
@@ -86,6 +87,7 @@
                0 0 30px rgba(255, 255, 255, 0.3),
                0 0 40px rgba(255, 255, 255, 0.2),
                0 0 50px rgba(255, 255, 255, 0.1);
+    font-weight: 600;
   }
 
   .showcase-media {
@@ -111,29 +113,221 @@
     background: linear-gradient(to right, #2e2e2e, #3d3d3d);
   }
 
+  /* Character Card Styling */
   .character-card {
-    display: block;
-    position: relative;
-    width: 100%;
-    height: 800px;
+    display: flex;
+    justify-content: flex-start; /* Align elements to the left */
+    align-items: stretch; /* Stretch elements to take full height */
     overflow-y: hidden;
+  }
+  
+  .information-panel {
+    display: flex; /* Change display to flex */
+    align-items: center;
+    height: 800px;
+    width: 100%;
+    background-color: #3d3d3d;
     z-index: -1;
   }
-
-  .character-card-side-banner {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
+  
+  .side-banner {
+    flex: 0 0 auto;
+    height: 100%;
     background: linear-gradient(to bottom, #3d3d3d, #fff);
   }
-
-  .side-banner {
-    position: relative;
-    height: 100%;
+  
+  .details-panel {
+    margin-left: 11px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 0 0 390px;
+    height: 780px;
+    border: solid 8px;
+    border-radius: 20px;
+    border-color: #525252;
+    color: white;
   }
 
-/* Pyro Button Styling */
+  .character-title {
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+    padding-right: 7px;
+    margin-bottom: 20px;
+  }
+
+  .character-title div {
+    margin-left: 8px;
+  }
+
+  .info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 250px;
+    white-space: nowrap;
+    gap: 90px;
+    margin-bottom: 20px;
+  }
+
+  .character-affiliation {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .character-affiliation div {
+    font-weight: 500;
+  }
+
+  .character-nation {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .character-nation div {
+    font-weight: 500;
+    margin-top: 4px;
+  }
+
+  .character-rarity {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    margin-right: 10px;
+  }
+
+  .card-rarity img {
+    height: 16px;
+    width: 16px;
+    transform: scale(1.75);
+    margin-left: 8px;
+    margin-top: 4px;
+  }
+
+  .description-container {
+    text-align: center;
+    width: 300px;
+    padding-bottom: 20px;
+  }
+
+  .description-container p {
+    font-size: 20px;
+    font-weight: 300;
+  }
+
+  .constellation-container {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+  }
+
+  .constellation-container img {
+    height: 150px;
+    width: 150px;
+  }
+
+  .character-constellation {
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  .details-panel h1 {
+    font-size: 36px;
+  }
+
+  .talent-panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 780px;
+    border: solid 8px;
+    border-radius: 20px;
+    border-color: #525252;
+    margin-left: 20px;
+    margin-right: 11px;
+    color: white;
+  }
+
+  .talent-detail-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    justify-content: center;
+    margin-top: -10px;
+  }
+
+  .talent-details {
+    text-align: center;
+  }
+
+  .talent-details h1 {
+    text-align: left;
+    font-size: 2vw;
+    margin-left: 15px;
+    font-weight: 400;
+  }
+
+  .talent-details h2 {
+    text-align: left;
+    font-size: 1vw;
+    margin-left: 15px;
+  }
+
+  .talent-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .talent-icon img {
+    height: 100px;
+    width: 100px;
+  }
+
+  .talent-description p {
+    justify-items: center;
+    font-size: 1vw;
+    font-weight: 300;
+    letter-spacing: 2px;
+  }
+
+  .talent-preview {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+  }
+
+  .talent-preview img {
+    transform: scale(1.25);
+    border: solid 5px;
+    border-color: #eeeeee;
+    border-radius: 8px;
+  }
+  
+  .primogem-rarity {
+    display: flex;
+    position: absolute;
+    top: 70%;
+    left: 25%;
+  }
+
+  .primogem-rarity img {
+    height: 75px;
+    width: 75px;
+    margin-right: -18px;
+  }
+
+  .character-name img {
+    height: 75px;
+    width: 75px;
+    margin-left: 10px;
+  }
+
+/* Pyro Styling */
 .pyro .character-panel {
     display: flex;
     flex-wrap: wrap;
@@ -238,6 +432,116 @@
 }
 
 .electro .vision-icon {
+    margin-left: 10px;
+    width: 95px;
+    height: 95px
+}
+
+/* Cryo Button Styling */
+.cryo .character-panel {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cryo .character-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(to right, #42ccee, #fff);
+    color: #fff;
+    border: none;
+}
+
+.cryo .character-btn:hover {
+    background: #2e2e2e;
+    cursor: pointer;
+}
+
+.cryo .character-btn button {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cryo .text-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    font-size: 32px;
+    width: 166px;
+    height: auto;
+}
+
+.cryo .character-btn img {
+    margin-right: 10px;
+    width: 95px;
+    height: 95px;
+}
+
+.cryo .spacer {
+    flex-grow: 1;
+}
+
+.cryo .vision-icon {
+    margin-left: 10px;
+    width: 95px;
+    height: 95px
+}
+
+/* Cryo Button Styling */
+.hydro .character-panel {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hydro .character-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(to right, #208fd8, #fff);
+    color: #fff;
+    border: none;
+}
+
+.hydro .character-btn:hover {
+    background: #2e2e2e;
+    cursor: pointer;
+}
+
+.hydro .character-btn button {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hydro .text-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    font-size: 32px;
+    width: 166px;
+    height: auto;
+}
+
+.hydro .character-btn img {
+    margin-right: 10px;
+    width: 95px;
+    height: 95px;
+}
+
+.hydro .spacer {
+    flex-grow: 1;
+}
+
+.hydro .vision-icon {
     margin-left: 10px;
     width: 95px;
     height: 95px

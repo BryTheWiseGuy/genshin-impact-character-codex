@@ -4,9 +4,27 @@ import '../stylesheets/App.css'
 import Navbar from './Navbar'
 
 function CharacterPage({ character, characters, setCurrentCharacter }) {
-  const { artwork, name } = character
+  const { artwork, name, rarity } = character
 
-  console.log(character)
+  function handleRarity(rarity) {
+    let primogem = <img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/" alt="Primogem"/>
+    if (rarity === 4) {
+      return <div className='primogem-rarity'>
+        {primogem}
+        {primogem}
+        {primogem}
+        {primogem}
+      </div>
+    } else {
+      return <div className='primogem-rarity'>
+        {primogem}
+        {primogem}
+        {primogem}
+        {primogem}
+        {primogem}
+    </div>
+    }
+  }
 
   return (
     <div className='character-page'>
@@ -15,10 +33,9 @@ function CharacterPage({ character, characters, setCurrentCharacter }) {
           <img src={artwork} className='top-banner-image' alt='top-banner-img'/>
         </div>
         <div>
-          <p className='banner-text-underlay'>{name}</p>
+          <p className='banner-text-underlay'>{name}{handleRarity(rarity)}</p>
         </div>
       </div>
-      {/* <div className='top-banner-spacer'></div> */}
       <Navbar characters={characters} onSetCurrentCharacter={setCurrentCharacter} />
       <CharacterCard character={character} />
     </div>
