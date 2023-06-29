@@ -7,8 +7,9 @@ function CharacterPanel({ characters }) {
   return (
     <div className='character-panel'>
       {characters.map((character) => {
+        const { id } = character
         return <CharacterButton 
-          key={character.name}
+          key={id}
           character={character}
         />
       })}

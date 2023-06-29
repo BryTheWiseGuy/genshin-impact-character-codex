@@ -1,8 +1,6 @@
 import React from 'react'
 
 function TalentPanel({ character }) {
-
-  console.log(character);
   
   return (
     <div className='talent-panel'>

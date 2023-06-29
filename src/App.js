@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import ScrollToTop from './Components/ScrollToTop.js';
 import Navbar from './Components/Navbar.js';
 import Home from './Components/Home.js';
 import CharacterPage from "./Components/CharacterPage.js";
@@ -15,12 +16,12 @@ function App() {
             .then(characters => {
                 setCharacters(characters);
             });
-    },
-        []);
+    }, []);
 
   return (
     <div className="App">
       <Router>
+        <ScrollToTop />
         <Routes>
           <Route path='/' element={
             <>
@@ -29,7 +30,7 @@ function App() {
             </>
           } 
           exact />
-          <Route path='/characters/:name' element={<CharacterPage characters={characters} setCurrentCharacter={setCurrentCharacter} />} exact />
+          <Route path='/characters/:name' element={<CharacterPage characters={characters} currentCharacter={currentCharacter} setCurrentCharacter={setCurrentCharacter}/>} exact />
         </Routes>
       </Router>
     </div>

@@ -1,13 +1,10 @@
 import React from 'react'
-import { useParams } from 'react-router-dom';
 import CharacterCard from './CharacterCard'
 import '../stylesheets/App.css'
 import Navbar from './Navbar'
 
-function CharacterPage({ characters, setCurrentCharacter }) {
-  const { name } = useParams();
-  const character = characters.find(character => character.name === name)
-  const { artwork, rarity } = character
+function CharacterPage({ characters, currentCharacter, setCurrentCharacter }) {
+  const { name, artwork, rarity } = currentCharacter;
 
   function handleRarity(rarity) {
     let primogem = <img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/" alt="Primogem"/>
@@ -41,7 +38,7 @@ function CharacterPage({ characters, setCurrentCharacter }) {
         </div>
       </div>
       <Navbar characters={characters} onSetCurrentCharacter={setCurrentCharacter} />
-      <CharacterCard character={character} />
+      <CharacterCard character={currentCharacter} />
     </div>
   )
 }

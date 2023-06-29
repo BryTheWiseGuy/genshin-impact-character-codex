@@ -415,7 +415,6 @@
 
 .electro .character-btn:hover {
     background: #2e2e2e;
-    cursor: pointer;
 }
 
 .electro .character-btn button {
@@ -470,7 +469,6 @@
 
 .cryo .character-btn:hover {
     background: #2e2e2e;
-    cursor: pointer;
 }
 
 .cryo .character-btn button {
@@ -525,7 +523,6 @@
 
 .hydro .character-btn:hover {
     background: #2e2e2e;
-    cursor: pointer;
 }
 
 .hydro .character-btn button {
@@ -580,7 +577,6 @@
 
 .anemo .character-btn:hover {
     background: #2e2e2e;
-    cursor: pointer;
 }
 
 .anemo .character-btn button {
@@ -635,7 +631,6 @@
 
 .geo .character-btn:hover {
     background: #2e2e2e;
-    cursor: pointer;
 }
 
 .geo .character-btn button {
@@ -690,7 +685,6 @@
 
 .dendro .character-btn:hover {
     background: #2e2e2e;
-    cursor: pointer;
 }
 
 .dendro .character-btn button {
