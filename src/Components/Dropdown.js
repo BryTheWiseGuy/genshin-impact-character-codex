@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import '../stylesheets/Dropdown.css';
 
-function Dropdown({ characters, onMenuClick, onSetCurrentCharacter }) {
+function Dropdown({ characters, onMenuClick }) {
     const [click, setClick] = useState(false);
     const [activeIndex, setActiveIndex] = useState(null)
 
@@ -34,7 +34,6 @@ function Dropdown({ characters, onMenuClick, onSetCurrentCharacter }) {
                                     handleDropdownClick(index)
                                     closeMobileMenu()
                                     onMenuClick()
-                                    onSetCurrentCharacter(character)
                                 }}
                             >
                                 {name}

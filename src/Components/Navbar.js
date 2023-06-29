@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import '../stylesheets/Navbar.css'
 import Dropdown from './Dropdown'
 
-function Navbar({ characters, onSetCurrentCharacter }) {
+function Navbar({ characters }) {
   const [click, setClick] = useState(false);
   const [dropdown, setDropdown] = useState(false);
 
@@ -38,7 +38,7 @@ function Navbar({ characters, onSetCurrentCharacter }) {
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
         <li className='nav-item'>
             <Link className='nav-links' onClick={closeMobileMenu}>
-              <i class='fa-sharp fa-solid fa-magnifying-glass'/>
+              <i className='fa-sharp fa-solid fa-magnifying-glass'/>
             </Link>
           </li>
           <li className='nav-item'>
@@ -55,7 +55,7 @@ function Navbar({ characters, onSetCurrentCharacter }) {
             <Link className='nav-links' onClick={() => setDropdown(prev => !prev)}>
               Characters <i className={dropdown ? 'fas fa-caret-down' : 'fas fa-caret-left'} />
             </Link>
-            {dropdown && <Dropdown onMenuClick={closeMobileMenu} characters={characters} onSetCurrentCharacter={onSetCurrentCharacter}/>}
+            {dropdown && <Dropdown onMenuClick={closeMobileMenu} characters={characters} />}
           </li>
         </ul>
       </nav>

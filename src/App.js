@@ -8,7 +8,6 @@ import './stylesheets/App.css';
 
 function App() {
   const [characters, setCharacters] = useState([])
-  const [currentCharacter, setCurrentCharacter] = useState({})
 
     useEffect(() => {
         fetch("http://localhost:3000/characters")
@@ -25,12 +24,12 @@ function App() {
         <Routes>
           <Route path='/' element={
             <>
-              <Navbar characters={characters} onSetCurrentCharacter={setCurrentCharacter} />
+              <Navbar characters={characters} />
               <Home characters={characters} />
             </>
           } 
           exact />
-          <Route path='/characters/:name' element={<CharacterPage characters={characters} currentCharacter={currentCharacter} setCurrentCharacter={setCurrentCharacter}/>} exact />
+          <Route path='/characters/:characterName' element={<CharacterPage characters={characters} />} exact />
         </Routes>
       </Router>
     </div>
