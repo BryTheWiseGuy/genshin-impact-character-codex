@@ -6,7 +6,7 @@ import Navbar from './Navbar'
 
 function CharacterPage({ characters }) {
   const { characterName } = useParams();
-  console.log(JSON.stringify(characters, null, 2));
+  console.log('hello!');
 
   function handleRarity(rarity) {
     let primogem = <img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/" alt="Primogem" />
@@ -29,7 +29,6 @@ function CharacterPage({ characters }) {
   }
   if (characters.length > 0) {
     const character = characters.find(character => characterName === character.name);
-    console.log(characterName, character);
     const { name, artwork, rarity } = character;
     return (
       <div className='character-page'>

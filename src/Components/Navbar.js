@@ -55,7 +55,7 @@ function Navbar({ characters }) {
             <Link className='nav-links' onClick={() => setDropdown(prev => !prev)}>
               Characters <i className={dropdown ? 'fas fa-caret-down' : 'fas fa-caret-left'} />
             </Link>
-            {dropdown && <Dropdown onMenuClick={closeMobileMenu} characters={characters} />}
+            {dropdown && <Dropdown characters={characters} />}
           </li>
         </ul>
       </nav>
