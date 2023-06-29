@@ -27,18 +27,6 @@ function CharacterCard({ character }) {
 
   return (
     <div>
-      <div className='showcase-media'>
-        <Container>
-          <div className="ratio ratio-21x9">
-            <iframe
-              className='character-showcase'
-              src={showcase}
-              title={`Character Showcase ${id}`}
-              allowFullScreen></iframe>
-          </div>
-        </Container>
-      </div>
-      <div className='bottom-video-spacer'></div>
       <div className='character-card'> 
         <div className='information-panel'>
           <img className='side-banner' src={sideBanner} alt='character-card-side-banner' />
@@ -79,6 +67,18 @@ function CharacterCard({ character }) {
           </div>
           <TalentPanel character={character}/>
         </div>
+      </div>
+      <div className='bottom-video-spacer'></div>
+      <div className='showcase-media'>
+        <Container>
+          <div className="ratio ratio-21x9">
+            <iframe
+              className='character-showcase'
+              src={showcase}
+              title={`Character Showcase ${id}`}
+              allowFullScreen></iframe>
+          </div>
+        </Container>
       </div>
     </div>
   )

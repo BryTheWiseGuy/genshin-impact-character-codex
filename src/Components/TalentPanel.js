@@ -1,9 +1,12 @@
 import React from 'react'
 
 function TalentPanel({ character }) {
+
+  console.log(character);
+  
   return (
     <div className='talent-panel'>
-      <h1>Talents</h1>
+      <h1 className='panel-title'>Talents</h1>
       <div className='talent-detail-container'>
         <div className='talent-icon'>
           <img src={character.talents[0].talentIcon} alt='talent-icon'/>

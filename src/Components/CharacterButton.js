@@ -8,9 +8,9 @@ function CharacterButton({ character }) {
   return (
     <div className={vision}>
       <button className='character-btn shared-class'>
-        <div style={{position: 'relative', display: 'flex', alignItems: 'center'}}>
+        <div style={{position: 'relative', display: 'flex', alignItems: 'center', width: '400px'}}>
           <img src={icon} alt={name}/>
-          <div className='text-container'>
+          <div className='text-container' style={{width: '400px'}}>
             <Link
               className='dropdown-link shared-class'
               to={`/characters/${name}`}

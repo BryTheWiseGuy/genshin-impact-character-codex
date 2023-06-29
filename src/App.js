@@ -29,7 +29,7 @@ function App() {
             </>
           } 
           exact />
-          <Route path='/characters/:characterName' element={<CharacterPage characters={characters} character={currentCharacter} setCurrentCharacter={setCurrentCharacter} />} exact />
+          <Route path='/characters/:name' element={<CharacterPage characters={characters} setCurrentCharacter={setCurrentCharacter} />} exact />
         </Routes>
       </Router>
     </div>

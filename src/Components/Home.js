@@ -2,7 +2,7 @@ import React from 'react'
 import CharacterPanel from './CharacterPanel.js';
 import TravelerImage from '../images/genshin-impact-traveler-featured-image.png';
 
-function Home( {characters} ) {
+function Home({ characters }) {
 
     return (
         <div className='home'>
