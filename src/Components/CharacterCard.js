@@ -1,9 +1,9 @@
 import React from 'react';
-import { Container } from 'react-bootstrap';
+import ReactPlayer from 'react-player/youtube';
 import TalentPanel from './TalentPanel';
 
 function CharacterCard({ character }) {
-  const { id, name, rarity, cardIcon, showcase, sideBanner, title, nation, constellation, constellationIcon, description } = character
+  const { name, rarity, cardIcon, showcase, sideBanner, title, nation, constellation, constellationIcon, description, weapon } = character
 
   function handleRarity(rarity) {
     let primogem = <img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/" alt="Primogem"/>
@@ -57,12 +57,21 @@ function CharacterCard({ character }) {
             <div className='description-container'>
               <p>{description}</p>
             </div>
-            <div className='constellation-container'>
-              Constellation:
-              <div className='character-constellation'>
-                {constellation}
+            <div className='constellation-weapon-container'>
+              <div className='constellation-container'>
+                Constellation:
+                <div className='character-constellation'>
+                  {constellation}
+                </div>
+                <img src={constellationIcon} alt='constellation-icon'/>
               </div>
-              <img src={constellationIcon} alt='constellation-icon'/>
+              <div className='weapon-container'>
+                Weapon:
+                <div className='character-weapon'>
+                  {weapon[0].signature}
+                </div>
+                <img src={weapon[0].icon} alt='weapon-icon'/>
+              </div>
             </div>
           </div>
           <TalentPanel character={character}/>
@@ -70,15 +79,16 @@ function CharacterCard({ character }) {
       </div>
       <div className='bottom-video-spacer'></div>
       <div className='showcase-media'>
-        <Container>
           <div className="ratio ratio-21x9">
-            <iframe
-              className='character-showcase'
-              src={showcase}
-              title={`Character Showcase ${id}`}
-              allowFullScreen></iframe>
+            <div className='character-showcase'>
+              <ReactPlayer  
+                url={showcase}
+                height='100%'
+                width='auto'
+                controls='true' 
+              />
+            </div>
           </div>
-        </Container>
       </div>
     </div>
   )

@@ -7,7 +7,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
             "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
+            "showcase": "https://www.youtube.com/watch?v=ZzcUoAwYWU8",
             "rarity": 4,
             "title": "Outrider of the Knights of Favonious",
             "nation": "Mondstadt",
@@ -17,7 +17,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Weapon_Elegy_for_the_End.png/",
                     "signature": "Elegy for the End"
                 }
             ],
@@ -53,7 +53,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Lisa_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Lisa_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/OMHxS0N1zCA",
+            "showcase": "https://www.youtube.com/watch?v=OMHxS0N1zCA",
             "rarity": 4,
             "title": "Witch of Purple Rose",
             "nation": "Mondstadt",
@@ -63,7 +63,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Tempus_Fugit_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Weapon_Kagura%27s_Verity.png/",
                     "signature": "Kagura's Verity"
                 }
             ],
@@ -100,7 +100,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Kaeya_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Kaeya_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/M2blSYJ6hrE",
+            "showcase": "https://www.youtube.com/watch?v=M2blSYJ6hrE",
             "rarity": 4,
             "title": "Cavalry Captain of the Knights of Favonius",
             "nation": "Mondstadt",
@@ -110,7 +110,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Pavo_Ocellus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Weapon_Mistsplitter_Reforged.png/",
                     "signature": "Mistsplitter Reforged"
                 }
             ],
@@ -146,7 +146,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Barbara_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Barbara_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Barbara_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/-_1I3-J56Iw",
+            "showcase": "https://www.youtube.com/watch?v=-_1I3-J56Iw",
             "rarity": 4,
             "title": "Deaconess of the Church of Favonius",
             "nation": "Mondstadt",
@@ -156,7 +156,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Crater_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Sacrificial_Fragments.png/",
                     "signature": "Sacrificial Fragments"
                 }
             ],
@@ -192,7 +192,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Bennett_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Bennett_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Bennett_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/r6Xsrsfm-b0",
+            "showcase": "https://www.youtube.com/watch?v=r6Xsrsfm-b0",
             "rarity": 4,
             "title": "Leader of Benny's Adventure Team",
             "nation": "Mondstadt",
@@ -202,7 +202,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Rota_Calamitas_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Weapon_Mistsplitter_Reforged.png/",
                     "signature": "Mistsplitter Reforged"
                 }
             ],
@@ -238,7 +238,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Fischl_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Fischl_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/3VtfVPCbNzk",
+            "showcase": "https://www.youtube.com/watch?v=3VtfVPCbNzk",
             "rarity": 4,
             "title": "Prinzessin der Verurteilung",
             "nation": "Mondstadt",
@@ -248,7 +248,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Corvus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Polar_Star.png/",
                     "signature": "Polar Star"
                 }
             ],
@@ -284,7 +284,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Xiangling_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Xiangling_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Xiangling_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/TvqGRUWm8qE",
+            "showcase": "https://www.youtube.com/watch?v=TvqGRUWm8qE",
             "rarity": 4,
             "title": "Head Chef of the Wanmin Restaurant",
             "nation": "Liyue",
@@ -294,7 +294,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Trulla_Shape.png/",
             "weapon": [
                 {
-                    "type": "Polearm",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Staff_of_the_Scarlet_Sands.png/",
                     "signature": "Staff of the Scarlet Sands"
                 }
             ],
@@ -330,7 +330,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Qiqi_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Qiqi_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Qiqi_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/_ndVJlqBYLY",
+            "showcase": "https://www.youtube.com/watch?v=_ndVJlqBYLY",
             "rarity": 5,
             "title": "Pharmacist, Bubu Pharmacy",
             "nation": "Liyue",
@@ -340,7 +340,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Pristina_Nola_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Weapon_Skyward_Blade.png/",
                     "signature": "Skyward Blade"
                 }
             ],
@@ -376,7 +376,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Chongyun_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Chongyun_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/6uVaT7sF6Kw",
+            "showcase": "https://www.youtube.com/watch?v=6uVaT7sF6Kw",
             "rarity": 4,
             "title": "Banisher of Evil and Rumors Thereof",
             "nation": "Liyue",
@@ -386,7 +386,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Nubis_Caesor_Shape.png/",
             "weapon": [
                 {
-                    "type": "Claymore",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Weapon_Wolf%27s_Gravestone.png/",
                     "signature": "Wolf's Gravestone"
                 }
             ],
@@ -422,7 +422,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mona_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Mona_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Mona_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/QUioSVENXcI",
+            "showcase": "https://www.youtube.com/watch?v=QUioSVENXcI",
             "rarity": 5,
             "title": "Enigmatic Astrologer",
             "nation": "Mondstadt",
@@ -432,7 +432,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Astrolabos_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Weapon_Skyward_Atlas.png/",
                     "signature": "Skyward Atlas"
                 }
             ],
@@ -468,7 +468,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Keqing_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Keqing_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/rPLh5QAedUE",
+            "showcase": "https://www.youtube.com/watch?v=rPLh5QAedUE",
             "rarity": 5,
             "title": "Yuheng of the Liyue Qixing",
             "nation": "Liyue",
@@ -478,7 +478,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Trulla_Cementarii_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Weapon_Mistsplitter_Reforged.png/",
                     "signature": "Mistsplitter Reforged"
                 }
             ],
@@ -514,7 +514,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Diluc_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Diluc_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/1TfbiDo7N4k",
+            "showcase": "https://www.youtube.com/watch?v=1TfbiDo7N4k",
             "rarity": 5,
             "title": "Master of the Dawn Winery",
             "nation": "Mondstadt",
@@ -524,7 +524,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Noctua_Shape.png/",
             "weapon": [
                 {
-                    "type": "Claymore",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Weapon_Wolf%27s_Gravestone.png/",
                     "signature": "Wolf's Gravestone"
                 }
             ],
@@ -560,7 +560,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Beidou_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Beidou_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Beidou_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/z_MWKjmlgzQ",
+            "showcase": "https://www.youtube.com/watch?v=z_MWKjmlgzQ",
             "rarity": 4,
             "title": "Queen of the Crux Fleet",
             "nation": "Liyue",
@@ -570,7 +570,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Victor_Mare_Shape.png/",
             "weapon": [
                 {
-                    "type": "Claymore",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_The_Unforged.png/",
                     "signature": "The Unforged"
                 }
             ],
@@ -606,7 +606,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Jean_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Jean_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/_FOkixTeAaA",
+            "showcase": "https://www.youtube.com/watch?v=_FOkixTeAaA",
             "rarity": 5,
             "title": "Acting Grand Master of the Knights of Favonius",
             "nation": "Mondstadt",
@@ -616,7 +616,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Leo_Minor_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Primordial_Jade_Cutter.png/",
                     "signature": "Primordial Jade Cutter"
                 }
             ],
@@ -652,7 +652,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Venti_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Venti_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Venti_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/TSsWsCdiiPI",
+            "showcase": "https://www.youtube.com/watch?v=TSsWsCdiiPI",
             "rarity": 5,
             "title": "Anemo Archon | Singer of Skyward Sonnets",
             "nation": "Mondstadt",
@@ -662,7 +662,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Carmen_Dei_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Weapon_Elegy_for_the_End.png/",
                     "signature": "Elegy for the End"
                 }
             ],
@@ -698,7 +698,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Klee_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Klee_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/C_duDk5e8yU",
+            "showcase": "https://www.youtube.com/watch?v=C_duDk5e8yU",
             "rarity": 5,
             "title": "Spark Knight",
             "nation": "Mondstadt",
@@ -708,7 +708,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Trifolium_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Lost_Prayer_to_the_Sacred_Winds.png/",
                     "signature": "Lost Prayer to the Sacred Winds"
                 }
             ],
@@ -744,7 +744,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Ningguang_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Ningguang_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Ningguang_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/V-NB2uSmS3Q",
+            "showcase": "https://www.youtube.com/watch?v=V-NB2uSmS3Q",
             "rarity": 4,
             "title": "Lady of the Jade Chamber",
             "nation": "Liyue",
@@ -754,11 +754,11 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Opus_Aequilibrium_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Lost_Prayer_to_the_Sacred_Winds.png/",
                     "signature": "Lost Prayer to the Sacred Winds"
                 }
             ],
-            "description": "The Tianquan of the Liyue Qixing and owner of the floating Jade Chamber in the skies of Liyue, Ningguang is a mogul who shakes the very foundations of business circles. Even grabbing a few scraps from the documents she shreds from the Jade Chamber will gift one an invaluable fragment of her wisdom, enough to stay a step or two from one's peers.",
+            "description": "The Tianquan of the Liyue Qixing and owner of the floating Jade Chamber in the skies of Liyue, Ningguang is a mogul who shakes the very foundations of business circles.",
             "talents": [
                 {
                     "name": "Sparkling Scatter",
@@ -790,7 +790,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Noelle_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Noelle_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Noelle_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/GXYeJi5tXCo",
+            "showcase": "https://www.youtube.com/watch?v=GXYeJi5tXCo",
             "rarity": 4,
             "title": "Maid of the Knights of Favonius",
             "nation": "Mondstadt",
@@ -800,7 +800,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Parma_Cordis_Shape.png/",
             "weapon": [
                 {
-                    "type": "Claymore",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Redhorn_Stonethresher.png/",
                     "signature": "Redhorn Stonethresher"
                 }
             ],
@@ -836,7 +836,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Razor_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Razor_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Razor_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ryjJOuFVhwU",
+            "showcase": "https://www.youtube.com/watch?v=ryjJOuFVhwU",
             "rarity": 4,
             "title": "Legend of Wolvendom",
             "nation": "Mondstadt",
@@ -846,7 +846,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Lupus_Minor_Shape.png/",
             "weapon": [
                 {
-                    "type": "Claymore",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Weapon_Song_of_Broken_Pines.png/",
                     "signature": "Song of Broken Pines"
                 }
             ],
@@ -882,7 +882,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Sucrose_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Sucrose_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Sucrose_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/s6Ek9Vn5wsI",
+            "showcase": "https://www.youtube.com/watch?v=s6Ek9Vn5wsI",
             "rarity": 4,
             "title": "Knights of Favonius Alchemist",
             "nation": "Mondstadt",
@@ -892,7 +892,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Ampulla_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Sacrificial_Fragments.png/",
                     "signature": "Sacrificial Fragments"
                 }
             ],
@@ -928,7 +928,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Xingqiu_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Xingqiu_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Xingqiu_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/jrD_xRqHI88",
+            "showcase": "https://www.youtube.com/watch?v=jrD_xRqHI88",
             "rarity": 4,
             "title": "Guhua Guru of Feiyun Fame",
             "nation": "Liyue",
@@ -938,11 +938,11 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Fabulae_Textile_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Weapon_Sacrificial_Sword.png/",
                     "signature": "Sacrificial Sword"
                 }
             ],
-            "description": "He is the second son of the Guild Manager of the Feiyun Commerce Guild, an influential group in Liyue, and is also a self-proclaimed practitioner of the Guhua Clan's arts. Also an avid reader, Xingqiu aims to be the embodiment of chivalry like the heroes from the books he reads; however, this belies his knack for mischief.",
+            "description": "He is the second son of the Guild Manager of the Feiyun Commerce Guild, an influential group in Liyue, and is also a self-proclaimed practitioner of the Guhua Clan's arts.",
             "talents": [
                 {
                     "name": "Guhua Style",
@@ -974,7 +974,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Diona_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Diona_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/9cti_Dwd3Hc",
+            "showcase": "https://www.youtube.com/watch?v=9cti_Dwd3Hc",
             "rarity": 4,
             "title": "Popular bartender of the Cat's Tail",
             "nation": "Mondstadt",
@@ -984,7 +984,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Feles_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Weapon_Elegy_for_the_End.png/",
                     "signature": "Elegy for the End"
                 }
             ],
@@ -1020,7 +1020,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Tartaglia_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Tartaglia_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Tartaglia_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/3f2-EANyrNM",
+            "showcase": "https://www.youtube.com/watch?v=3f2-EANyrNM",
             "rarity": 5,
             "title": "The Eleventh of the Eleven Fatui Harbingers",
             "nation": "Liyue",
@@ -1030,7 +1030,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Monoceros_Caeli_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Polar_Star.png/",
                     "signature": "Polar Star"
                 }
             ],
@@ -1066,7 +1066,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Xinyan_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Xinyan_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Xinyan_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/MXSgda3ySTg",
+            "showcase": "https://www.youtube.com/watch?v=MXSgda3ySTg",
             "rarity": 4,
             "title": "Liyue's Sole Rock 'n' Roll Musician",
             "nation": "Liyue",
@@ -1076,7 +1076,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Fila_Ignium_Shape.png/",
             "weapon": [
                 {
-                    "type": "Claymore",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Redhorn_Stonethresher.png/",
                     "signature": "Redhorn Stonethresher"
                 }
             ],
@@ -1112,7 +1112,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Zhongli_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Zhongli_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Zhongli_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/4oBpaBEMBIM",
+            "showcase": "https://www.youtube.com/watch?v=4oBpaBEMBIM",
             "rarity": 5,
             "title": "Geo Archon | Wangsheng Funeral Parlor Consultant",
             "nation": "Liyue",
@@ -1122,7 +1122,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Lapis_Dei_Shape.png/",
             "weapon": [
                 {
-                    "type": "Polearm",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Staff_of_Homa.png/",
                     "signature": "Staff of Homa"
                 }
             ],
@@ -1158,7 +1158,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Albedo_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Albedo_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Albedo_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/A3U51KyZLxE",
+            "showcase": "https://www.youtube.com/watch?v=A3U51KyZLxE",
             "rarity": 5,
             "title": "Chief Alchemist of the Knights of Favonius",
             "nation": "Mondstadt",
@@ -1168,7 +1168,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Princeps_Cretaceus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Primordial_Jade_Cutter.png/",
                     "signature": "Primordial Jade Cutter"
                 }
             ],
@@ -1204,7 +1204,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Ganyu_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Ganyu_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/FHRXP8ceeBU",
+            "showcase": "https://www.youtube.com/watch?v=FHRXP8ceeBU",
             "rarity": 5,
             "title": "Secretary of the Yuehai Pavilion",
             "nation": "Liyue",
@@ -1214,7 +1214,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Sinae_Unicornis_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Weapon_Aqua_Simulacra.png/",
                     "signature": "Aqua Simulacra"
                 }
             ],
@@ -1250,7 +1250,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Xiao_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Xiao_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Xiao_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/sjozpa9DsZU",
+            "showcase": "https://www.youtube.com/watch?v=sjozpa9DsZU",
             "rarity": 5,
             "title": "Vigilant Yaksha, Bane of All Evil",
             "nation": "Liyue",
@@ -1260,7 +1260,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Alatus_Nemeseos_Shape.png/",
             "weapon": [
                 {
-                    "type": "Polearm",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Weapon_Primordial_Jade_Winged-Spear.png/",
                     "signature": "Primordial Jade Winged-Spear"
                 }
             ],
@@ -1296,7 +1296,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Hu_Tao_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Hu_Tao_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/qrH9vMZBwAk",
+            "showcase": "https://www.youtube.com/watch?v=qrH9vMZBwAk",
             "rarity": 5,
             "title": "Director of the Wangsheng Funeral Parlor",
             "nation": "Liyue",
@@ -1306,7 +1306,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Papilio_Charontis_Shape.png/",
             "weapon": [
                 {
-                    "type": "Polearm",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Staff_of_Homa.png/",
                     "signature": "Staff of Homa"
                 }
             ],
@@ -1342,7 +1342,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Rosaria_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Rosaria_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Rosaria_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/KJwOW1zS8UM",
+            "showcase": "https://www.youtube.com/watch?v=KJwOW1zS8UM",
             "rarity": 4,
             "title": "Thorny Benevolence, A Nonconforming Sister",
             "nation": "Mondstadt",
@@ -1352,7 +1352,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Spinea_Corona_Shape.png/",
             "weapon": [
                 {
-                    "type": "Polearm",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Staff_of_Homa.png/",
                     "signature": "Staff of Homa"
                 }
             ],
@@ -1388,7 +1388,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Yanfei_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Yanfei_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Yanfei_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/y43rmAQ-l_M",
+            "showcase": "https://www.youtube.com/watch?v=y43rmAQ-l_M",
             "rarity": 4,
             "title": "Liyue Harbor's Famed Legal Adviser",
             "nation": "Liyue",
@@ -1398,7 +1398,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Bestia_Iustitia_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Lost_Prayer_to_the_Sacred_Winds.png/",
                     "signature": "Lost Prayer to the Sacred Winds"
                 }
             ],
@@ -1434,7 +1434,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Eula_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Eula_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/Go7SeJ-yOL4",
+            "showcase": "https://www.youtube.com/watch?v=Go7SeJ-yOL4",
             "rarity": 5,
             "title": "Dance of the Shimmering Wave, Spindrift Knight",
             "nation": "Mondstadt",
@@ -1444,7 +1444,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Aphros_Delos_Shape.png/",
             "weapon": [
                 {
-                    "type": "Claymore",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Weapon_Song_of_Broken_Pines.png/",
                     "signature": "Song of Broken Pines"
                 }
             ],
@@ -1480,7 +1480,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Kaedehara_Kazuha_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Kaedehara_Kazuha_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/zif0Lmhrivc",
+            "showcase": "https://www.youtube.com/watch?v=zif0Lmhrivc",
             "rarity": 5,
             "title": "A Wandering Samurai Who Left His Homeland",
             "nation": "Inazuma",
@@ -1490,7 +1490,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Acer_Palmatum_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Weapon_Freedom-Sworn.png/",
                     "signature": "Freedom-Sworn"
                 }
             ],
@@ -1526,7 +1526,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Kamisato_Ayaka_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Kamisato_Ayaka_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/5RCsr1Y8UZA",
+            "showcase": "https://www.youtube.com/watch?v=5RCsr1Y8UZA",
             "rarity": 5,
             "title": "Daughter of the Kamisato Clan",
             "nation": "Inazuma",
@@ -1536,7 +1536,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Grus_Nivis_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Weapon_Mistsplitter_Reforged.png/",
                     "signature": "Mistsplitter Reforged"
                 }
             ],
@@ -1572,7 +1572,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sayu_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Sayu_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Sayu_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/PXp8qKZeHeY",
+            "showcase": "https://www.youtube.com/watch?v=PXp8qKZeHeY",
             "rarity": 4,
             "title": "Shuumatsuban's Resident Ninja",
             "nation": "Inazuma",
@@ -1582,7 +1582,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Nyctereutes_Minor_Shape.png/",
             "weapon": [
                 {
-                    "type": "Claymore",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Weapon_Wolf%27s_Gravestone.png/",
                     "signature": "Wolf's Gravestone"
                 }
             ],
@@ -1618,7 +1618,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Yoimiya_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Yoimiya_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Yoimiya_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/dn8etqEPtFg",
+            "showcase": "https://www.youtube.com/watch?v=dn8etqEPtFg",
             "rarity": 5,
             "title": "Owner of Naganohara Fireworks",
             "nation": "Inazuma",
@@ -1628,7 +1628,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Carassius_Auratus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Weapon_Thundering_Pulse.png/",
                     "signature": "Thundering Pulse"
                 }
             ],
@@ -1664,7 +1664,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Kujou_Sara_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Kujou_Sara_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/RPAoXtU5Kgg",
+            "showcase": "https://www.youtube.com/watch?v=RPAoXtU5Kgg",
             "rarity": 4,
             "title": "General of the Tenryou Commission",
             "nation": "Inazuma",
@@ -1674,7 +1674,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Flabellum_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Skyward_Harp.png/",
                     "signature": "Skyward Harp"
                 }
             ],
@@ -1710,7 +1710,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Raiden_Shogun_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Raiden_Shogun_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Raiden_Shogun_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/mvrW4aKwAXw",
+            "showcase": "https://www.youtube.com/watch?v=mvrW4aKwAXw",
             "rarity": 5,
             "title": "The Electro Archon | Her Eternal Excellency",
             "nation": "Inazuma",
@@ -1720,7 +1720,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Imperatrix_Umbrosa_Shape.png/",
             "weapon": [
                 {
-                    "type": "Polearm",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Weapon_Engulfing_Lightning.png/",
                     "signature": "Engulfing Lightning"
                 }
             ],
@@ -1756,7 +1756,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Sangonomiya_Kokomi_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Sangonomiya_Kokomi_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Sangonomiya_Kokomi_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/fVf0RB3nvOU",
+            "showcase": "https://www.youtube.com/watch?v=fVf0RB3nvOU",
             "rarity": 5,
             "title": "Divine Priestess of Watatsumi Island",
             "nation": "Inazuma",
@@ -1766,7 +1766,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Dracaena_Somnolenta_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Weapon_Everlasting_Moonglow.png/",
                     "signature": "Everlasting Moonglow"
                 }
             ],
@@ -1802,7 +1802,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Thoma_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Thoma_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Thoma_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/HPoeE5PRWTw",
+            "showcase": "https://www.youtube.com/watch?v=HPoeE5PRWTw",
             "rarity": 4,
             "title": "The Kamisato Clan's Housekeeper",
             "nation": "Inazuma",
@@ -1812,7 +1812,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Rubeum_Scutum_Shape.png/",
             "weapon": [
                 {
-                    "type": "Polearm",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Weapon_Kitain_Cross_Spear.png/",
                     "signature": "Kitain Cross Spear"
                 }
             ],
@@ -1848,7 +1848,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Gorou_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Gorou_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Gorou_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/O9Z96Mg-pk0",
+            "showcase": "https://www.youtube.com/watch?v=O9Z96Mg-pk0",
             "rarity": 4,
             "title": "General of the Watatsumi Army",
             "nation": "Inazuma",
@@ -1858,7 +1858,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Canis_Bellatoris_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Weapon_Elegy_for_the_End.png/",
                     "signature": "Elegy for the End"
                 }
             ],
@@ -1894,7 +1894,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Arataki_Itto_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Arataki_Itto_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Arataki_Itto_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/iXeJ94AFZDw",
+            "showcase": "https://www.youtube.com/watch?v=iXeJ94AFZDw",
             "rarity": 5,
             "title": "The First and Greatest Head of the Arataki Gang",
             "nation": "Inazuma",
@@ -1904,7 +1904,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Taurus_Iracundus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Claymore",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Redhorn_Stonethresher.png/",
                     "signature": "Redhorn Stonethresher"
                 }
             ],
@@ -1940,7 +1940,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Shenhe_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Shenhe_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Shenhe_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/piiSGbsxMRQ",
+            "showcase": "https://www.youtube.com/watch?v=piiSGbsxMRQ",
             "rarity": 5,
             "title": "Ethereal Soul Amidst the Mortal Realm",
             "nation": "Liyue",
@@ -1950,7 +1950,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Crista_Doloris_Shape.png/",
             "weapon": [
                 {
-                    "type": "Polearm",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Weapon_Calamity_Queller.png/",
                     "signature": "Calamity Queller"
                 }
             ],
@@ -1986,7 +1986,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Yun_Jin_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Yun_Jin_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Yun_Jin_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/YxIa114Od84",
+            "showcase": "https://www.youtube.com/watch?v=YxIa114Od84",
             "rarity": 4,
             "title": "Director of Yun-Han Opera Troupe",
             "nation": "Liyue",
@@ -1996,7 +1996,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Opera_Grandis_Shape.png/",
             "weapon": [
                 {
-                    "type": "Polearm",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Weapon_Vortex_Vanquisher.png/",
                     "signature": "Vortex Vanquisher"
                 }
             ],
@@ -2032,7 +2032,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Yae_Miko_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Yae_Miko_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Yae_Miko_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/4yFiBhNIWYo",
+            "showcase": "https://www.youtube.com/watch?v=4yFiBhNIWYo",
             "rarity": 5,
             "title": "Guuji of the Grand Narukami Shrine",
             "nation": "Inazuma",
@@ -2042,7 +2042,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Divina_Vulpes_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Weapon_Kagura%27s_Verity.png/",
                     "signature": "Kagura's Verity"
                 }
             ],
@@ -2078,7 +2078,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Kamisato_Ayato_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Kamisato_Ayato_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Kamisato_Ayato_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/KxMs7IsSTgs",
+            "showcase": "https://www.youtube.com/watch?v=KxMs7IsSTgs",
             "rarity": 5,
             "title": "Head of the Kamisato Clan",
             "nation": "Inazuma",
@@ -2088,7 +2088,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Cypressus_Custos_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Weapon_Haran_Geppaku_Futsu.png/",
                     "signature": "Haran Geppaku Futsu"
                 }
             ],
@@ -2124,7 +2124,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Yelan_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Yelan_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Yelan_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/MDpYYzMvnHI",
+            "showcase": "https://www.youtube.com/watch?v=MDpYYzMvnHI",
             "rarity": 5,
             "title": "Mysterious Member of the Ministry of Civil Affairs",
             "nation": "Liyue",
@@ -2134,7 +2134,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Umbrabilis_Orchis_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Weapon_Aqua_Simulacra.png/",
                     "signature": "Aqua Simulacra"
                 }
             ],
@@ -2170,7 +2170,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Kuki_Shinobu_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Kuki_Shinobu_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Kuki_Shinobu_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/13fviLTc0Aw",
+            "showcase": "https://www.youtube.com/watch?v=13fviLTc0Aw",
             "rarity": 4,
             "title": "Deputy Leader of the Arataki Gang",
             "nation": "Inazuma",
@@ -2180,7 +2180,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Tribulatio_Demptio_Shape.png/",
             "weapon": [
                 {
-                    "type": "Sword",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Primordial_Jade_Cutter.png/",
                     "signature": "Primordial Jade Cutter"
                 }
             ],
@@ -2216,7 +2216,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Shikanoin_Heizou_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Shikanoin_Heizou_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Shikanoin_Heizou_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/mp-u0LmUikU",
+            "showcase": "https://www.youtube.com/watch?v=mp-u0LmUikU",
             "rarity": 4,
             "title": "Detective of the Tenryou Commission",
             "nation": "Inazuma",
@@ -2226,7 +2226,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Cervus_Minor_Shape.png/",
             "weapon": [
                 {
-                    "type": "Catalyst",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Weapon_Skyward_Atlas.png/",
                     "signature": "Skyward Atlas"
                 }
             ],
@@ -2262,7 +2262,7 @@
             "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Collei_Icon.png/",
             "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Collei_Item.png/",
             "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Collei_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/J-nGm9BmKtE",
+            "showcase": "https://www.youtube.com/watch?v=J-nGm9BmKtE",
             "rarity": 4,
             "title": "Avidya Forest Ranger Trainee",
             "nation": "Sumeru",
@@ -2272,7 +2272,7 @@
             "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Leptailurus_Cervarius_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Polar_Star.png/",
                     "signature": "Polar Star"
                 }
             ],
@@ -2304,736 +2304,736 @@
         {
             "id": 51,
             "name": "Tighnari",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
-            "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "a",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/08/tighnari-dendro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Tighnari_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Tighnari_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Tighnari_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=oSSCRUmaquo",
+            "rarity": 5,
+            "title": "Avidya Forest Watcher",
+            "nation": "Sumeru",
+            "vision": "dendro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg/",
+            "constellation": "Vulpes Zerda",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Vulpes_Zerda_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Weapon_Hunter%27s_Path.png/",
+                    "signature": "Hunter's Path"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "Tighnari is the stern Chief Officer of the Forest Rangers and Collei's mentor. Despite his intelligence, he prefers to live a solitary life in the depths of Avidya Forest rather than in the ivory tower of Sumeru Akademiya.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Khanda Barrier-Buster",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 4 consecutive shots with a bow. While aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. At full charge, fires off a Wreath Arrow that deals Dendro DMG. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal Dendro DMG.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Khanda_Barrier-Buster_Charged_2_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Bow_Dendro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Vijnana-Phala Mine",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Tighnari throws a Vijnana Stormheart ahead that deals AoE Dendro DMG, creating a Vijnana-Khanda Field that creates mysterious illusions that taunt opponents and draw their fire. Additionally, Tighnari gains the Vijnana Suffusion effect, which will decrease the Wreath Arrow's charging time by 2.4s.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Vijnana-Phala_Mine_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Talent_Vijnana-Phala_Mine.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Fashioner's Tanglevine Shaft",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Combines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal Dendro DMG. After they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track nearby opponents and deal Dendro DMG on hit.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Fashioner%27s_Tanglevine_Shaft_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Talent_Fashioner%27s_Tanglevine_Shaft.png/"
                 }
             ]
         },
         {
             "id": 52,
             "name": "Dori",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/09/dori-electro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Dori_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Dori_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Dori_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=P08q5Y7r9Z4",
             "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "b",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "title": "Black Market Sumeru Merchant",
+            "nation": "Sumeru",
+            "vision": "electro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg/",
+            "constellation": "Magicae Lucerna",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Magicae_Lucerna_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Favonius_Greatsword.png/",
+                    "signature": "Favonius Greatsword"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "The owner of The Palace of Alcazarzaray and a merchant of high regard, \"Lord Sangemah Bay\" is well-known for her ability to obtain anything a person needs, as long as they have enough Mora to afford her jaw-dropping prices.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Marvelous Sword-Dance",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 3 consecutive strikes. When charged, drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Marvelous_Sword-Dance_%28Modified%29_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Claymore_Electro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Spirit-Warding Lamp: Troubleshooter Cannon",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Directs a Spirit-Warding Lamp to fire off a Troubleshooter Shot at opponents, dealing Electro DMG. After the Troubleshooter Shot hits, it will create 2 After-Sales Service Rounds that will automatically track nearby opponents and deal Electro DMG.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Spirit-Warding_Lamp_Troubleshooter_Cannon_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Talent_Spirit-Warding_Lamp_Troubleshooter_Cannon.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Alcazarzaray's Exactitude",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Summons forth the Jinni within the lamp to give the client various kinds of aid. When the jinni connects to a nearby character, it continuously restores HP based on Dori's Max HP and continuously regenerates Energy. When the connector between the Jinni and the character touches opponents, it will deal one instance of Electro DMG to them every 0.4s.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Alcazarzaray%27s_Exactitude_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Talent_Alcazarzaray%27s_Exactitude.png/"
                 }
             ]
         },
         {
             "id": 53,
             "name": "Candace",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/10/candace-hydro-avatar-profile-genshin-impact-1-1536x724.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Candace_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Candace_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Candace_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=-n5ZlOtLzKU",
             "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "c",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "title": "Guardian of Aaru Village",
+            "nation": "Sumeru",
+            "vision": "hydro",
+            "visionIcon": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/hydro-element-genshin-impact-wiki-guide.png/",
+            "constellation": "Sagitta Scutum",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Sagitta_Scutum_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Staff_of_Homa.png/",
+                    "signature": "Staff of Homa"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "The scion of Al-Ahmar and the Guardian of Aaru Village, Candace is kind to travelers who visit, but is unforgiving to those who violate the village's rules.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Gleaming Spear: Guardian Stance",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 4 consecutive spear strikes. When charged, consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Gleaming_Spear_Guardian_Stance_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Polearm_Hydro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Sacred Rite: Heron's Sanctum",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Candace's fighting style is capable of warding off an entire tide of foes. Candace rushes forward with her shield, dealing Hydro DMG to opponents in front of her. When charged, she raises her shield to block incoming attacks from nearby opponents, forming a barrier that absorbs DMG based on her Max HP. When finished charging, candace performs a leaping strike that deals Hydro DMG",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Sacred_Rite_Heron%27s_Sanctum_Hold_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Talent_Sacred_Rite_Heron%27s_Sanctum.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Sacred Rite: Wagtail's Tide",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Raising her weapon on high, Candace calls upon a divine blessing that deals AoE Hydro DMG based on her Max HP and continuously confers the Prayer of the Crimson Crown on your active character.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Sacred_Rite_Wagtail%27s_Tide_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Talent_Sacred_Rite_Wagtail%27s_Tide.png/"
                 }
             ]
         },
         {
             "id": 54,
             "name": "Cyno",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
-            "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "d",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/10/cyno-electro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Cyno_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Cyno_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Cyno_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=J9WuPBOC_S8",
+            "rarity": 5,
+            "title": "General Mahamatra of the Akademiya",
+            "nation": "Sumeru",
+            "vision": "electro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg/",
+            "constellation": "Lupus Aureus",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Lupus_Aureus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Staff_of_the_Scarlet_Sands.png/",
+                    "signature": "Staff of the Scarlet Sands"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "As the General Mahamatra, Cyno leads the Matra and strikes fear into the hearts of researchers of the Sumeru Akademiya. In spite of this, Cyno has a fun side outside of his role in the Akademiya, constantly cracking unfunny jokes.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Invoker's Spear",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 4 consecutive spear strikes. When charged, consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Invoker%27s_Spear_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Polearm_Electro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Secret Rite: Chasmic Soulfarer",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Performs a swift thrust, dealing Electro DMG to opponents along the path. When Cyno is under the Pathsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a Mortuary Rite that deals thunderous AoE Electro DMG and extends the duration of Pathsworn Pathclearer.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Secret_Rite_Chasmic_Soulfarer_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Talent_Secret_Rite_Chasmic_Soulfarer.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Sacred Rite: Wolf's Swiftness",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Calls upon a divine spirit to indwell him, morphing into the Pactsworn Pathclearer. Cyno's Normal, Charged, and Plunging Attacks will be converted to Electro DMG. Cyno's Elemental Mastery and resistance to interruption will increase, and he gains immunity to Electro-Charged DMG.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Sacred_Rite_Wolf%27s_Swiftness_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Talent_Sacred_Rite_Wolf%27s_Swiftness.png/"
                 }
             ]
         },
         {
             "id": 55,
             "name": "Nilou",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
-            "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "e",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/10/nilou-hydro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Nilou_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Nilou_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Nilou_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=P5DeAD_uXE0",
+            "rarity": 5,
+            "title": "Star of Zubayr Theater",
+            "nation": "Sumeru",
+            "vision": "hydro",
+            "visionIcon": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/hydro-element-genshin-impact-wiki-guide.png/",
+            "constellation": "Lotos Somno",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Lotos_Somno_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Key_of_Khaj-Nisut.png/",
+                    "signature": "Key of Khaj-Nisut"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "A dancer under the Zubayr Theater, Nilou's dancing is but elegant and graceful — however, outside the stage's spotlight, she's just like any girl her age; warm, smiling, and friendly.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Dance of Samser",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 3 consecutive sword strikes. When charged, consumes a certain amount of Stamina to perform a twirling slash.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Dance_of_Samser_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Sword_Hydro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Dance of Haftkarsvar",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Enters the Pirouette state, dealing Hydro DMG to nearby opponents based on Nilou's Max HP. While she is in the Pirouette state, Nilou's Normal Attacks and Elemental Skill will cause her to enter the Sword Dance and Whirling Steps stances respectively.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Dance_of_Haftkarsvar_Whirling_Steps_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Talent_Dance_of_Haftkarsvar.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Begins the dance of faraway dreams and springs that hear, causing a Lotus of Distant Waters to bloom, dealing AoE Hydro DMG based on Nilou's Max HP and applying the Lingering Aeon effect to all opponents hit. After an interval, opponents affected by Lingering Aeon will take Hydro DMG.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Dance_of_Abzendegi_Distant_Dreams%2C_Listening_Spring_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Talent_Dance_of_Abzendegi_Distant_Dreams%2C_Listening_Spring.png/"
                 }
             ]
         },
         {
             "id": 56,
             "name": "Nahida",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
-            "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "f",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/11/nahida-dendro-archon-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Nahida_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Nahida_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Nahida_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=dpZhGzZ3hNc",
+            "rarity": 5,
+            "title": "Dendro Archon | Lesser Lord Kusanali",
+            "nation": "Sumeru",
+            "vision": "dendro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg/",
+            "constellation": "Sapientia Oromasdis",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Sapientia_Oromasdis_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_A_Thousand_Floating_Dreams.png/",
+                    "signature": "A Thousand Floating Dreams"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "She is the vessel of Buer, as Lesser Lord Kusanali,[5] the current Dendro Archon. Having been freed from her extensive confinement in the Sanctuary of Surasthana, she now strives to have a stronger presence in Sumeru.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Akara",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 4 attacks that deal Dendro DMG to opponents in front of her. When charged, consumes a certain amount of Stamina to deal AoE Dendro DMG to opponents in front of her.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Akara_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Catalyst_Dendro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "All Schemes to Know",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Sends forth karmic bonds of wood and tree from her side, dealing AoE Dendro DMG and marking up to 8 opponents hit with the Seed of Skandha. Opponents marked by the Seed of Skandha will be linked to one another. After you trigger Elemental Reactions on opponents or when they take DMG from Dendro Cores, Nahida will unleash Tri-Karma Purification, dealing Dendro DMG to all connected opponents.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/All_Schemes_to_Know_Hold_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Talent_All_Schemes_to_Know.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Illusory Heart",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Manifests the Court of Dreams and expands the Shrine of Maya. When the Shrine of Maya field is unleashed, differing effects will be separately unleashed based on the Elemental Types present within the party. If there are at least 2 party members of the same Elemental Types present when the field is deployed, the effects will be increased further.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Illusory_Heart_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Talent_Illusory_Heart.png/"
                 }
             ]
         },
         {
             "id": 57,
             "name": "Layla",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/11/layla-cryo-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Layla_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Layla_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Layla_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=mXFg0bsuvcs",
             "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "g",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "title": "Half-Awake, Half-Asleep, All Incredulous",
+            "nation": "Sumeru",
+            "vision": "cryo",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg/",
+            "constellation": "Luscinia",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Luscinia_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Key_of_Khaj-Nisut.png/",
+                    "signature": "Key of Khaj-Nisut"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "She is a student in the Rtawahist Darshan, specializing in Theoretical Astrology. Chronically sleep-deprived and of poor health as a result, Layla believes that \"The Stars' Blessing\" is the reason she wakes from sleepwalking to find her papers fully completed.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Sword of the Radiant Path",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 3 rapid strikes. When charged, consumes a certain amount of Stamina to unleash 2 rapid sword strikes.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Sword_of_the_Radiant_Path_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Sword_Cryo.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "ENights of Formal Focus",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Puts forth a shield known as the Curtain of Slumber, dealing AoE Cryo DMG. The Curtain of Slumber's DMG Absorption is based on Layla's Max HP. When the shield is deployed, Layla will have Cryo applied to her briefly.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Nights_of_Formal_Focus_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Talent_Nights_of_Formal_Focus.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Dream of the Star-Stream Shaker",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Unleashes a Celestial Dreamsphere that constantly fires Starlight Slugs at opponents within its AoE, dealing Cryo DMG. When a Starlight Slug hits, it will generate 1 Night Star for nearby Curtains of Slumber. Each Curtain of Slumber can gain 1 Night Star this way every 0.5s.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Dream_of_the_Star-Stream_Shaker_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Talent_Dream_of_the_Star-Stream_Shaker.png/"
                 }
             ]
         },
         {
             "id": 58,
             "name": "Wanderer",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
-            "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "h",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/12/wanderer-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Wanderer_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Wanderer_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Wanderer_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=NHEE_-87mNE",
+            "rarity": 5,
+            "title": "Tribulations Uncounted, Trials Unknowable",
+            "nation": "Sumeru",
+            "vision": "anemo",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg/",
+            "constellation": "Peregrinus",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Peregrinus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Tulaytullah%27s_Remembrance.png/",
+                    "signature": "Tulaytullah's Rememberance"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "The Wanderer's previous incarnation expunged his previous appellations and respective histories from Irminsul. Harboring his former self's memories after willingly regaining them, \"Wanderer\" is now the only title he goes by, for he has no home, kin, or destination.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Yuuban Meigen",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 3 attacks using wind blades, dealing Anemo DMG. When charged, consumes a certain amount of Stamina, gathers a build up of high wind pressure, and deals AoE Anemo DMG after a short casting time.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Yuuban_Meigen_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Catalyst_Anemo.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Hanega: Song of the Wind",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Concentrates the power of the winds to break free from the shackles of the earth, dealing AoE Anemo DMG before leaping into the air and entering the Windfavored state.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Hanega_Song_of_the_Wind_Kuugo_Toufukai_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Talent_Hanega_Song_of_the_Wind.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Kyougen: Five Ceremonial Plays",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Compresses the atmosphere into a singular vacuum that grinds all troubles away, dealing multiple instances of AoE Anemo DMG. If the character is in the Windfavored state due to the skill \"Hanega: Song of the Wind,\" Windfavored state will end after casting.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Kyougen_Five_Ceremonial_Plays_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Talent_Kyougen_Five_Ceremonial_Plays.png/"
                 }
             ]
         },
         {
             "id": 59,
             "name": "Faruzan",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
+            "artwork": "https://genshin.global/wp-content/uploads/2022/12/faruzab-character-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Faruzan_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Faruzan_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Faruzan_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=0grd767X4Jg",
             "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "i",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "title": "Haravatat Household Name",
+            "nation": "Sumeru",
+            "vision": "anemo",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg/",
+            "constellation": "Flosculi Implexi",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Flosculi_Implexi_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Weapon_Elegy_for_the_End.png/",
                     "signature": "Elegy for the End"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "She is a renowned professor of the Sumeru Akademiya and member of the Haravatat Darshan. She recently returned to the Akademiya after solving a puzzle and escaping the ruins that trapped her a century ago.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Parthian Shotshooter",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 4 consecutive shots with a bow. While aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal Anemo DMG.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Parthian_Shot_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Bow_Anemo.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Wind Realm of Nasamjnin",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Faruzan deploys a polyhedron that deals AoE Anemo DMG to nearby opponents. She will also enter the Manifest Gale state. While in the Manifest Gale state, Faruzan's next fully charged shot will consume this state and will become a Hurricane Arrow that contains high-pressure currents.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Wind_Realm_of_Nasamjnin_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Talent_Wind_Realm_of_Nasamjnin.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "The Wind's Secret Ways",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Faruzan deploys a Dazzling Polyhedron that unleashes a Whirlwind Pulse and deals AoE Anemo DMG. While the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash 1 more Whirlwind Pulse.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/The_Wind%27s_Secret_Ways_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Talent_The_Wind%27s_Secret_Ways.png/"
                 }
             ]
         },
         {
             "id": 60,
             "name": "Yaoyao",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
+            "artwork": "https://genshin.global/wp-content/uploads/2023/03/yaoyao-dendro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Yaoyao_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Yaoyao_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Yaoyao_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=JTVQdw8jDp0",
             "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "j",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "title": "Disciple of Streetward Rambler",
+            "nation": "Liyue",
+            "vision": "dendro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg/",
+            "constellation": "Osmanthus",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Osmanthus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Staff_of_Homa.png/",
+                    "signature": "Staff of Homa"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "Hailing from a rural area not far from Qingce Village, Yaoyao grew up with nature at her side. Seeing potential in Yaoyao, Streetward Rambler took her in as her disciple, and Yaoyao left the tranquil mountains to live with her master in the bright and bustle Liyue Harbor.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Toss 'N' Turn Spear",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 4 consecutive spear strikes. When charged, consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Toss_%27N%27_Turn_Spear_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Polearm_Dendro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Raphanus Sky Cluster",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Calls upon \"Yuegui: Throwing Mode,\" a special device created by a certain adeptus to help Yaoyao solve her problems. Throws out White Jade Radishes that will explode upon hitting characters or opponents, dealing Dendro DMG to opponents within a certain AoE, and healing characters within that same AoE based on Yaoyao's Max HP.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Raphanus_Sky_Cluster_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Talent_Raphanus_Sky_Cluster.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Moonjade Descent",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "At the enjoinment of a certain adeptus, Yuegui's full potential can be unleashed in an emergency, dealing Dendro DMG to nearby opponents and entering an (in some sense) unsurpassed Adeptal Legacy state.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Moonjade_Descent_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Talent_Moonjade_Descent.png/"
                 }
             ]
         },
         {
             "id": 61,
             "name": "Alhaitham",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
-            "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "k",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "artwork": "https://genshin.global/wp-content/uploads/2023/01/alhaitham-dendro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Alhaitham_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Alhaitham_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Alhaitham_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=6XbHqN8Cs60",
+            "rarity": 5,
+            "title": "Sumeru Akademiya Scribe, Acting Grand Sage",
+            "nation": "Sumeru",
+            "vision": "dendro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg/",
+            "constellation": "Vultur Volans",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Vultur_Volans_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Weapon_Light_of_Foliar_Incision.png/",
+                    "signature": "Light of Foliar Incision"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "Alhaitham is a member of the Haravatat of the Sumeru Akademiya and the Akademiya's Scribe, responsible for documenting their findings and drafting ordinances. Despite his brilliance, people within the Akademiya are perplexed by Alhaitham.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Abductive Reasoning",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 5 rapid strikes. When charged, consumes a certain amount of Stamina to unleash 2 rapid sword strikes.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Abductive_Reasoning_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Sword_Dendro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Universality: An Elaboration on Form",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Rushes forward, dealing Dendro DMG to nearby opponents when the rush ends, causing a Chisel-Light Mirror to form. When he possesses Chisel-Light Mirrors, Alhaitham's attacks will be converted to Dendro DMG. The Chisel-Light Mirrors will unleash Projection Attacks that deal AoE Dendro DMG.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Universality_An_Elaboration_on_Form_Hold_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Talent_Universality_An_Elaboration_on_Form.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Particular Field: Fetters of Phenomena",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Creates a Particular Binding Field and deals multiple instances of AoE Dendro DMG. If Chisel-Light Mirrors exist when this ability is unleashed, all such Mirrors will be consumed and increase the number of DMG instances dealt.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Particular_Field_Fetters_of_Phenomena_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Talent_Particular_Field_Fetters_of_Phenomena.png/"
                 }
             ]
         },
         {
             "id": 62,
             "name": "Dehya",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
-            "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
+            "artwork": "https://genshin.global/wp-content/uploads/2023/03/dehya-pyro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Dehya_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Dehya_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Dehya_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=AKDz1h2871E",
+            "rarity": 5,
+            "title": "Unfettered Desert Mercenary",
+            "nation": "Sumeru",
             "vision": "pyro",
             "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "l",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "constellation": "Mantichora",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Mantichora_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Beacon_of_the_Reed_Sea.png/",
+                    "signature": "Beacon of the Red Sea"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "A fierce and strong warrior, the \"Flame-Mane\" Dehya is considered a legend among the Eremites for her might, passion, and conscientiousness. She aspires to deliver hope back to the sands that she considers her home.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Sandstorm Assault",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 4 consecutive strikes using her Claymore and her martial arts. When charged, drains Stamina over time to perform continuous slashes. At the end of the sequence, performs a more powerful slash.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Sandstorm_Assault_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Claymore_Pyro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Molten Inferno",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "This art of Dehya's own invention changes its method of use depending on the combat situation. Indomitable Flame deals AoE Pyro DMG, and creates a field known as Fiery Sanctum if not other sanctum is present. Ranging Flame will be unleashed should a Fiery Sanctum field already exist. Dehya will perform a leaping attack, dealing AoE Pyro DMG before recreating a Fiery Sanctum field at her new position.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Molten_Inferno_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Talent_Molten_Inferno.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Leonine Bite",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Unleashing her burning anger and casting her inconvenient blade aside, Dehya enters the Blazing Lioness state and increases her resistance to interruption. In this state, Dehya will unleash the Flame-Mane's Fists, dealing Pyro DMG based on her ATK and Max HP. When its duration ends, she will unleash an Incineration Drive, dealing AoE Pyro DMG based on her ATK and Max HP.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Leonine_Bite_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Talent_Leonine_Bite.png/"
                 }
             ]
         },
         {
             "id": 63,
             "name": "Mika",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
+            "artwork": "https://genshin.global/wp-content/uploads/2023/05/mika-cyno-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Mika_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Mika_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mika_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=U8EWojkDwPc",
             "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
+            "title": "Front-Line Land Surveyor of the Knights of Favonius",
             "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "m",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "vision": "cryo",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg/",
+            "constellation": "Palumbus",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Palumbus_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Weapon_Engulfing_Lightning.png/",
+                    "signature": "Engulfing Lightning"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "Huffman's younger brother and the front-line surveyor of the Knights of Favonius Reconnaissance Company led by Eula, Mika diligently fulfills all his tasks efficiently and dreams of becoming an expert cartographer in the future.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Spear of Favonius - Arrow's Passage",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 5 consecutive strikes using his crossbow and spear. When charged, consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Spear_of_Favonius_-_Arrow%27s_Passage_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Polearm_Cryo.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Starfrost Swirl",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Mika uses his crossbow to attack, granting all nearby characters in your party Soulwind. When characters in the Soulwind state are on the field, their ATK SPD will be increased.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Starfrost_Swirl_Hold_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Talent_Starfrost_Swirl.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Skyfeather Song",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Derives the ability to spur his teammates on from the recited prayers of the knightly order, regenerating HP for all nearby party members and granting them the Eagleplume state. In this state, Normal Attacks of active characters will regenerate HP based on Mika's Max HP.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Skyfeather_Song_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Talent_Skyfeather_Song.png/"
                 }
             ]
         },
         {
             "id": 64,
             "name": "Kaveh",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
+            "artwork": "https://genshin.global/wp-content/uploads/2023/05/kaveh-dendro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Kaveh_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Kaveh_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Kaveh_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=MciOgsEOHZM",
             "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "n",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "title": "Renowned Sumeru Architect",
+            "nation": "Sumeru",
+            "vision": "dendro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg/",
+            "constellation": "Paradisaea",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Paradisaea_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Weapon_Mailed_Flower.png/",
+                    "signature": "Mailed Flower"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "The architect behind the Palace of Alcazarzaray, Kaveh was a student of the Kshahrewar Darshan of the Sumeru Akademiya and graduated with honors, earning the moniker \"Light of Kshahrewar.\"",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Schematic Setup",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Uses Mehrak to perform up to 4 consecutive attacks. When charged, drains Stamina over time to perform continuous slashes. At the end of the sequence, performs a more powerful slash.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Schematic_Setup_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Claymore_Dendro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Artistic Ingenuity",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Uses Mehrak's mapping ability for offensive purposes, initiating a radial scan that deals AoE Dendro DMG. It will also scan all Dendro Cores in its AoE and cause them to immediately burst.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Artistic_Ingenuity_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Talent_Artistic_Ingenuity.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Painted Dome",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing AoE Dendro DMG to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh enhanced combat abilities.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Painted_Dome_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Talent_Painted_Dome.png/"
                 }
             ]
         },
         {
             "id": 65,
             "name": "Baizhu",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
-            "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "o",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "artwork": "https://genshin.global/wp-content/uploads/2023/05/baizhu-dendro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Baizhu_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Baizhu_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Baizhu_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=HtiJkMsNtHg",
+            "rarity": 5,
+            "title": "Owner of Bubu Pharmacy",
+            "nation": "Liyue",
+            "vision": "dendro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg/",
+            "constellation": "Lagenaria",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Lagenaria_Shape.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Weapon_Jadefall%27s_Splendor.png/",
+                    "signature": "Jadefall's Splendor"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "The owner of Bubu Pharmacy and Qiqi's guardian, Doctor Baizhu is a master of the medicinal arts and the latest recipient of a generational contract with a white snake named Changsheng.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "The Classics of Acupuncture",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description": "Performs up to 4 attacks that deal Dendro DMG to opponents in front of him. When charged, consumes a certain amount of Stamina to deal AoE Dendro DMG to opponents in front of him after a short casting time.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/The_Classics_of_Acupuncture_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Catalyst_Dendro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Universal Diagnosis",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Controls a Gossamer Sprite that cruises and attacks nearby opponents, dealing Dendro DMG. After it performs 3 attacks or if there are no opponents nearby, the Sprite will return, healing all nearby party members based on Baizhu's Max HP.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Universal_Diagnosis_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Talent_Universal_Diagnosis.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Holistic Revivification",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Enters the Pulsing Clarity state, creating a Seamless Shield. While in this state, Baizhu will generate a new Seamless Shield every 2.5s. The Seamless Shield will heal your own active character based on Baizhu's Max HP and attack opponents by unleashing Spiritveins, dealing Dendro DMG.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Holistic_Revivification_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Talent_Holistic_Revivification.png/"
                 }
             ]
         },
         {
             "id": 66,
             "name": "Kirara",
-            "artwork": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-avatar-profile-genshin-impact-1.webp",
-            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/100%25_Outrider_Icon.png/",
-            "cardIcon": "https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp",
-            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Amber_Multi_Wish.png/",
-            "showcase": "https://www.youtube.com/embed/ZzcUoAwYWU8",
+            "artwork": "https://genshin.global/wp-content/uploads/2023/06/kirara-dendro-avatar-profile-genshin-impact-1.webp",
+            "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kirara_Icon.png/",
+            "cardIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Kirara_Item.png/",
+            "sideBanner": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Kirara_Multi_Wish.png/",
+            "showcase": "https://www.youtube.com/watch?v=hkUFz8n4rUU",
             "rarity": 4,
-            "title": "Outrider of the Knights of Favonious",
-            "nation": "Mondstadt",
-            "vision": "pyro",
-            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/",
-            "constellation": "p",
-            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Lepus_Shape.png/",
+            "title": "Gold Level Courier of the Komaniya Express",
+            "nation": "Inazuma",
+            "vision": "dendro",
+            "visionIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg/",
+            "constellation": "Arcella",
+            "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Unknown.png/",
             "weapon": [
                 {
-                    "type": "Bow",
-                    "signature": "Elegy for the End"
+                    "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Key_of_Khaj-Nisut.png/",
+                    "signature": "Key of Khaj-Nisut"
                 }
             ],
-            "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+            "description": "A youkai — a nekomata, specifically — Kirara is the Gold Level Courier of the Inazuma-based Komaniya Express. Her diligence in ensuring every package would be delivered to the right place has increased her company's renown.",
             "talents": [
                 {
-                    "name": "Sharpshooter",
+                    "name": "Boxcutter",
                     "type": "Normal Attack",
-                    "description":"Performs up to 5 consecutive shots with a bow.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Sharpshooter_Normal_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Bow_Pyro.png/"
+                    "description":"Performs up to 4 rapid strikes. When charged, onsumes a certain amount of Stamina to unleash 3 rapid claw strikes.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Boxcutter_Normal_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Sword_Dendro.png/"
                 },
                 {
-                    "name": "Explosive Puppet",
+                    "name": "Meow-teor Kick",
                     "type": "Elemental Skill",
-                    "description": "Baron Bunny continuously taunts the enemy, drawing their fire. Baron Bunny's HP scales with Amber's Max HP.When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Explosive_Puppet_Press_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/"
+                    "description": "Leaps into the air with all the agility of a cat passing through the bushes, and thwacks her foes with a flying kick that deals AoE Dendro DMG while creating a Shield of Safe Transport. This will also briefly apply Dendro to Kirara.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Meow-teor_Kick_Hold_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Talent_Meow-teor_Kick.png/"
                 },
                 {
-                    "name": "Fiery Rain",
+                    "name": "Secret Art: Surprise Dispatch",
                     "type": "Elemental Burst",
-                    "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Fiery_Rain_Preview.gif/",
-                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/"
+                    "description": "Smash opponents with a Special Delivery Package used for punishing parcel thieves, dealing AoE Dendro DMG. After the Special Delivery Package explodes, it will split up into many Cat Grass Cardamoms that will explode either upon contact with opponents or after a period of time, dealing AoE Dendro DMG.",
+                    "preview": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Secret_Art_Surprise_Dispatch_Preview.gif/",
+                    "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Talent_Secret_Art_Surprise_Dispatch.png/"
                 }
             ]
         }

@@ -116,7 +116,7 @@
     display: flex;
     width: 100%;
     height: 13px;
-    background: linear-gradient(to right, #2e2e2e, #3d3d3d);
+    background-color: #1C1C1B;
   }
 
   /* Character Card Styling */
@@ -132,14 +132,14 @@
     align-items: center;
     height: 800px;
     width: 100%;
-    background: linear-gradient(to right, #2e2e2e 50%, #3d3d3d);
+    background: linear-gradient(to right, #202020, #3d3d3d, #202020);
     z-index: -1;
   }
   
   .side-banner {
     flex: 0 0 auto;
     height: 100%;
-    background: linear-gradient(to bottom, #3d3d3d, #fff);
+    background-color: #1C1C1B;
   }
   
   .details-panel {
@@ -221,6 +221,28 @@
   .description-container p {
     font-size: 20px;
     font-weight: 300;
+  }
+
+  .constellation-weapon-container {
+    display: flex;
+    grid-template-columns: 1fr, 1fr;
+    gap: 40px;
+  }
+
+  .weapon-container {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+  }
+
+  .weapon-container img {
+    height: 140px;
+    width: 140px;
+  }
+
+  .character-weapon {
+    font-size: 18px;
+    font-weight: 400;
   }
 
   .constellation-container {
