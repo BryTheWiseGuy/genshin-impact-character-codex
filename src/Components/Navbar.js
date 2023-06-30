@@ -47,7 +47,7 @@ function Navbar({ characters }) {
             </Link>
           </li>
           <li className='nav-item'>
-            <Link className='nav-links' onClick={closeMobileMenu}>
+            <Link to='/new-character-form' className='nav-links' onClick={closeMobileMenu}>
               New Character
             </Link>
           </li>

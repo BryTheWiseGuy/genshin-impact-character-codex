@@ -4,6 +4,7 @@ import ScrollToTop from './Components/ScrollToTop.js';
 import Navbar from './Components/Navbar.js';
 import Home from './Components/Home.js';
 import CharacterPage from "./Components/CharacterPage.js";
+import CharacterForm from "./Components/CharacterForm.js";
 import './stylesheets/App.css';
 
 function App() {
@@ -30,6 +31,13 @@ function App() {
           } 
           exact />
           <Route path='/characters/:characterName' element={<CharacterPage characters={characters} />} exact />
+          <Route path='/new-character-form' element={
+            <>
+              <Navbar characters={characters} />
+              <CharacterForm characters={characters} setCharacters={setCharacters} />              
+            </>
+            } 
+            exact />
         </Routes>
       </Router>
     </div>
