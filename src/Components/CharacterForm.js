@@ -246,7 +246,7 @@ function CharacterForm({ characters, setCharacters }) {
       ]
     }
 
-    fetch("https://genshin-codex.onrender.com", {
+    fetch(`${process.env.REACT_APP_API_URL}/cats`, {
       method: 'POST',
       headers: {
         "Content-Type": "application/json",

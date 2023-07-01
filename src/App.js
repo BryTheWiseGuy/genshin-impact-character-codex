@@ -11,7 +11,7 @@ function App() {
   const [characters, setCharacters] = useState([])
 
     useEffect(() => {
-        fetch("https://genshin-codex.onrender.com")
+        fetch(`${process.env.REACT_APP_API_URL}/cats`)
             .then(res => res.json())
             .then(characters => {
                 setCharacters(characters);
