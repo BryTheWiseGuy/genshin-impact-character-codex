@@ -38,22 +38,22 @@ For support regarding this project, please reach out via email at brythewiseguy@
 
 ## Contributing
 
-Pull requests are welcome! Please feel free to reach out to me if there are specific features you'd like to see implemented! 
-For major changes, please utilize the support email above to discuss what you would like to change. 
-All pushes to main branch will be made upon my approval.
+Pull requests are welcome! Please feel free to reach out to me if there are specific features you'd like to see implemented!  
+For major changes, please utilize the support email above to discuss what you would like to change.  
+All pushes to main branch will be made upon my approval.  
 Please make sure to run and update tests as appropriate.
 
 ## Acknowledgment
 
-All data and images sourced in this project came from the Genshin Impact game, as well as the official Genshin Impact Fandom Wiki: https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki 
-Character showcase videos were sourced from the official Genshin Impact YouTube channel: https://www.youtube.com/@GenshinImpact
-ShowCase videos for characters who do not have official showcase videos were sourced from SaM on YouTube: https://www.youtube.com/@SaM0602
+All data and images sourced in this project came from the Genshin Impact game, as well as the official Genshin Impact Fandom Wiki: https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki  
+Character showcase videos were sourced from the official Genshin Impact YouTube channel: https://www.youtube.com/@GenshinImpact  
+Showcase videos for characters who do not have official showcase videos were sourced from SaM on YouTube: https://www.youtube.com/@SaM0602
 
 ## License
 
-[MIT] License
+MIT License
 
-Copyright (c) [2023] [Brian Ashman]
+Copyright (c) 2023 Brian Ashman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
