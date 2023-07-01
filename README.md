@@ -24,9 +24,9 @@ Check out my showcase video below on YouTube! This video gives a detailed outlin
 
 Screenshots:
 
-![Genshin Impact Screenshot](../genshin-impact-character-codex/src/Screenshots/genshin-codex-ss-1.jpg)
-![Genshin Impact Screenshot](../genshin-impact-character-codex/src/Screenshots/genshin-codex-ss-2.jpg)
-![Genshin Impact Screenshot](../genshin-impact-character-codex/src/Screenshots/genshin-codex-ss-3.jpg)
+![Genshin Impact Screenshot](/src/Screenshots/genshin-codex-ss-1.jpg)
+![Genshin Impact Screenshot](/src/Screenshots/genshin-codex-ss-2.jpg)
+![Genshin Impact Screenshot](/src/Screenshots/genshin-codex-ss-3.jpg)
 <!-- <img src="../genshin-impact-character-codex/src/Screenshots/genshin-codex-ss-1.jpg" width="48">
 <img src="../genshin-impact-character-codex/src/Screenshots/genshin-codex-ss-2.jpg" width="48">
 <img src="../genshin-impact-character-codex/src/Screenshots/genshin-codex-ss-3.jpg" width="48"> -->
