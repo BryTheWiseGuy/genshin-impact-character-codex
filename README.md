@@ -14,18 +14,7 @@ Because this project has been deployed on the free version of Render, it may tak
 
 ## Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+[![Genshin.Codex Showcase Video](https://img.youtube.com/vi/fDl1DkPN1X0/0.jpg)](https://www.youtube.com/watch?v=fDl1DkPN1X0)
 
 ## Contributing
 
