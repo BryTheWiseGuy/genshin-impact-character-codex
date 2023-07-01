@@ -246,7 +246,7 @@ function CharacterForm({ characters, setCharacters }) {
       ]
     }
 
-    fetch('http://localhost:3000/characters', {
+    fetch(`${process.env.REACT_APP_API_URL}/characters`, {
       method: 'POST',
       headers: {
         "Content-Type": "application/json",

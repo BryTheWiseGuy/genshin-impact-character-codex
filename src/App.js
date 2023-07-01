@@ -11,7 +11,7 @@ function App() {
   const [characters, setCharacters] = useState([])
 
     useEffect(() => {
-        fetch("http://localhost:3000/characters")
+        fetch(`${process.env.REACT_APP_API_URL}/characters`)
             .then(res => res.json())
             .then(characters => {
                 setCharacters(characters);
