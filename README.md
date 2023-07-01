@@ -1,6 +1,6 @@
 # Welcome to Genshin.Codex
 
-Welcome to Genshin.Codex. This web application is a codex of all current Genshin Impact characters that includes images, talent information, showcase videos, and basic character information. All data and images sourced in this project came from the Genshin Impact game, as well as the official Genshin Impact Fandom Wiki [pip](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki).
+Welcome to Genshin.Codex. This web application is a codex of all current Genshin Impact characters that includes images, talent information, showcase videos, and basic character information. All data and images sourced in this project came from the Genshin Impact game, as well as the official Genshin Impact Fandom Wiki (https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki).
 
 ## Installation
 
