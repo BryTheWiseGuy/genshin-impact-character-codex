@@ -253,8 +253,8 @@ function CharacterForm({ characters, setCharacters }) {
       },
       body: JSON.stringify(newCharacterData),
     })
-    .then((res) => res.json())
-    .then((newCharacter) => handleAddNewCharacter(newCharacter))
+      .then((res) => res.json())
+      .then((newCharacter) => handleAddNewCharacter(newCharacter))
 
     setCharacterName("");
     setCharacterArtwork("");
@@ -293,356 +293,368 @@ function CharacterForm({ characters, setCharacters }) {
   //=> Character Form
 
   return (
-    <div id="banner-image">
-      <img className="banner-image" src={FormBanner} alt="form-banner" />
-      <h1>CharacterForm</h1>
-      <form onSubmit={handleNewCharacterSubmit}>
-        <div></div>
-        <label className='form-label' htmlFor='charactar-name'>Character Name: </label>
-        <input
-          type='text'
-          id='character-name'
-          value={characterName}
-          onChange={handleCharacterName}>
-        </input>
-        <div>
-          <label className='form-label' htmlFor='charactar-artwork'>Character Artwork: </label>
+    <div className='character-form-page'>
+      <div id="form-banner-image">
+        <img className="form-banner-image" src={FormBanner} alt="form-banner" />
+      </div>
+      <div className='bottom-banner-border'></div>
+      <div>
+        <form className='character-form' onSubmit={handleNewCharacterSubmit}>
+          <h1>CharacterForm</h1>
+          <label className='form-label' htmlFor='charactar-name'>Character Name: </label>
           <input
             type='text'
-            id='character-artwork'
-            value={characterArtwork}
-            onChange={handleCharacterArtwork}>
+            id='character-name'
+            value={characterName}
+            onChange={handleCharacterName}>
           </input>
           <div>
-            <img
-              className='form-image'
-              src={characterArtwork}
-              alt='character-artwork'
-            />
+            <label className='form-label' htmlFor='charactar-artwork'>Character Artwork: </label>
+            <input
+              type='text'
+              id='character-artwork'
+              value={characterArtwork}
+              onChange={handleCharacterArtwork}>
+            </input>
+            <div>
+              <img
+                className={`form-image ${!characterArtwork ? 'hidden' : ''}`}
+                src={characterArtwork}
+                alt='character-artwork'
+              />
+            </div>
           </div>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='charactar-icon'>Character Icon: </label>
-          <input
-            type='text'
-            id='character-icon'
-            value={characterIcon}
-            onChange={handleCharacterIcon}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={characterIcon}
-              alt='character-icon'
-            />
+            <label className='form-label' htmlFor='charactar-icon'>Character Icon: </label>
+            <input
+              type='text'
+              id='character-icon'
+              value={characterIcon}
+              onChange={handleCharacterIcon}>
+            </input>
+            <div>
+              <img
+                className={`form-image ${!characterIcon ? 'hidden' : ''}`}
+                src={characterIcon}
+                alt='character-icon'
+              />
+            </div>
           </div>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='charactar-item-icon'>Item Icon: </label>
-          <input
-            type='text'
-            id='character-item-icon'
-            value={ItemIcon}
-            onChange={handleItemIcon}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={ItemIcon}
-              alt='character-item-icon'
-            />
+            <label className='form-label' htmlFor='charactar-item-icon'>Item Icon: </label>
+            <input
+              type='text'
+              id='character-item-icon'
+              value={ItemIcon}
+              onChange={handleItemIcon}>
+            </input>
+            <div>
+              <img
+                className={`form-image ${!ItemIcon ? 'hidden' : ''}`}
+                src={ItemIcon}
+                alt='character-item-icon'
+              />
+            </div>
           </div>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='charactar-side-banner'>Side Banner Image: </label>
-          <input
-            type='text'
-            id='character-side-banner'
-            value={sideBanner}
-            onChange={handleSideBanner}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={sideBanner}
-              alt='character-side-banner'
-            />
+            <label className='form-label' htmlFor='charactar-side-banner'>Side Banner Image: </label>
+            <input
+              type='text'
+              id='character-side-banner'
+              value={sideBanner}
+              onChange={handleSideBanner}>
+            </input>
+            <div>
+              <img
+                className={`form-image ${!sideBanner ? 'hidden' : ''}`}
+                src={sideBanner}
+                alt='character-side-banner'
+              />
+            </div>
           </div>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='charactar-showcase'>Showcase Video: </label>
-          <input
-            type='text'
-            id='character-showcase'
-            value={showcase}
-            onChange={handleShowcase}>
-          </input>
-          <ReactPlayer
-            url={showcase}
-            height='202.5px'
-            width='360px'
-            controls='true'
-          />
-        </div>
-        <div>
-          <label className='form-label' htmlFor='character-rarity'>Rarity: </label>
-          <select value={rarity} onChange={handleRarity}>
-            <option value='4'>4 Star</option>
-            <option value='5'>5 Star</option>
-          </select>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='charactar-title'>Character Title: </label>
-          <input
-            type='text'
-            id='character-title'
-            value={title}
-            onChange={handleTitle}>
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='charactar-nation'>Nation: </label>
-          <input
-            type='text'
-            id='character-nation'
-            value={nation}
-            onChange={handleNation}>
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='character-vision'>Vision: </label>
-          <select value={vision} onChange={handleVision}>
-            <option value='Pyro'>Pyro</option>
-            <option value='Cryo'>Cryo</option>
-            <option value='Electro'>Electro</option>
-            <option value='Anemo'>Anemo</option>
-            <option value='Hydro'>Hydro</option>
-            <option value='Geo'>Geo</option>
-            <option value='Dendro'>Dendro</option>
-          </select>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='charactar-constellation'>Constellation: </label>
-          <input
-            type='text'
-            id='character-constellation'
-            value={constellation}
-            onChange={handleConstellation}>
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='charactar-constellation-icon'>Constellation Icon: </label>
-          <input
-            type='text'
-            id='character-constellation-icon'
-            value={constellationIcon}
-            onChange={handleConstellationIcon}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={constellationIcon}
-              alt='character-constellation-icon'
+            <label className='form-label' htmlFor='charactar-showcase'>Showcase Video: </label>
+            <input
+              type='text'
+              id='character-showcase'
+              value={showcase}
+              onChange={handleShowcase}>
+            </input>
+            <ReactPlayer
+              url={showcase}
+              height='202.5px'
+              width='360px'
+              controls='true'
             />
           </div>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='weapon-name'>Signature Weapon: </label>
-          <input
-            type='text'
-            id='weapon-name'
-            value={weaponName}
-            onChange={handleWeaponName}>
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='weapon-icon'>Weapon Icon: </label>
-          <input
-            type='text'
-            id='weapon-icon'
-            value={weaponIcon}
-            onChange={handleWeaponIcon}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={weaponIcon}
-              alt='weapon-icon'
-            />
+            <label className='form-label' htmlFor='character-rarity'>Rarity: </label>
+            <select value={rarity} onChange={handleRarity}>
+              <option value='4'>4 Star</option>
+              <option value='5'>5 Star</option>
+            </select>
           </div>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='character-description'>Character Description: </label>
-          <input
-            type='text'
-            id='character-description'
-            value={characterDescription}
-            onChange={handleCharacterDescription}
-            maxLength="250">
-          </input>
-        </div>
-        <h1>Talents</h1>
-        <h2>Normal Attack</h2>
-        <div>
-          <label className='form-label' htmlFor='normal-attack-name'>Normal Attack Name: </label>
-          <input
-            type='text'
-            id='normal-attack-name'
-            value={attackName}
-            onChange={handleAttackName}>
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='normal-attack-description'>Normal Attack Description: </label>
-          <input
-            type='text'
-            id='normal-attack-description'
-            value={attackDescription}
-            onChange={handleAttackDescription}
-            maxLength="250">
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='normal-attack-preview'>Normal Attack Preview: </label>
-          <input
-            type='text'
-            id='normal-attack-preview'
-            value={attackPreview}
-            onChange={handleAttackPreview}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={attackPreview}
-              alt='normal-attack-preview'
-            />
+            <label className='form-label' htmlFor='charactar-title'>Character Title: </label>
+            <input
+              type='text'
+              id='character-title'
+              value={title}
+              onChange={handleTitle}>
+            </input>
           </div>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='normal-attack-icon'>Normal Attack Icon: </label>
-          <input
-            type='text'
-            id='normal-attack-icon'
-            value={attackIcon}
-            onChange={handleAttackIcon}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={attackIcon}
-              alt='normal-attack-icon'
-            />
+            <label className='form-label' htmlFor='charactar-nation'>Nation: </label>
+            <input
+              type='text'
+              id='character-nation'
+              value={nation}
+              onChange={handleNation}>
+            </input>
           </div>
-        </div>
-        <h2>Elemental Ability</h2>
-        <div>
-          <label className='form-label' htmlFor='ability-name'>Elemental Ability Name: </label>
-          <input
-            type='text'
-            id='ability-name'
-            value={abilityName}
-            onChange={handleAbilityName}>
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='ability-description'>Elemental Ability Description: </label>
-          <input
-            type='text'
-            id='ability-description'
-            value={abilityDescription}
-            onChange={handleAbilityDescription}
-            maxLength="250">
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='ability-preview'>Elemental Ability Preview: </label>
-          <input
-            type='text'
-            id='ability-preview'
-            value={abilityPreview}
-            onChange={handleAbilityPreview}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={abilityPreview}
-              alt='ability-preview'
-            />
+            <label className='form-label' htmlFor='character-vision'>Vision: </label>
+            <select value={vision} onChange={handleVision}>
+              <option value='Pyro'>Pyro</option>
+              <option value='Cryo'>Cryo</option>
+              <option value='Electro'>Electro</option>
+              <option value='Anemo'>Anemo</option>
+              <option value='Hydro'>Hydro</option>
+              <option value='Geo'>Geo</option>
+              <option value='Dendro'>Dendro</option>
+            </select>
           </div>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='ability-icon'>Elemental Ability Icon: </label>
-          <input
-            type='text'
-            id='ability-icon'
-            value={abilityIcon}
-            onChange={handleAbilityIcon}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={abilityIcon}
-              alt='ability-icon'
-            />
+            <label className='form-label' htmlFor='charactar-constellation'>Constellation: </label>
+            <input
+              type='text'
+              id='character-constellation'
+              value={constellation}
+              onChange={handleConstellation}>
+            </input>
           </div>
-        </div>
-        <h2>Elemental Burst</h2>
-        <div>
-          <label className='form-label' htmlFor='burst-name'>Elemental Burst Name: </label>
-          <input
-            type='text'
-            id='burst-name'
-            value={burstName}
-            onChange={handleBurstName}>
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='burst-description'>Elemental Burst Description: </label>
-          <input
-            type='text'
-            id='burst-description'
-            value={burstDescription}
-            onChange={handleBurstDescription}
-            maxLength="250">
-          </input>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='burst-preview'>Elemental Burst Preview: </label>
-          <input
-            type='text'
-            id='burst-preview'
-            value={burstPreview}
-            onChange={handleBurstPreview}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={burstPreview}
-              alt='burst-preview'
-            />
+            <label className='form-label' htmlFor='charactar-constellation-icon'>Constellation Icon: </label>
+            <input
+              type='text'
+              id='character-constellation-icon'
+              value={constellationIcon}
+              onChange={handleConstellationIcon}>
+            </input>
+            <div>
+              <img
+                className={`form-image ${!constellationIcon ? 'hidden' : ''}`}
+                src={constellationIcon}
+                alt='character-constellation-icon'
+              />
+            </div>
           </div>
-        </div>
-        <div>
-          <label className='form-label' htmlFor='burst-icon'>Elemental Burst Icon: </label>
-          <input
-            type='text'
-            id='burst-icon'
-            value={burstIcon}
-            onChange={handleBurstIcon}>
-          </input>
           <div>
-            <img
-              className='form-image'
-              src={burstIcon}
-              alt='burst-icon'
-            />
+            <label className='form-label' htmlFor='weapon-name'>Signature Weapon: </label>
+            <input
+              type='text'
+              id='weapon-name'
+              value={weaponName}
+              onChange={handleWeaponName}>
+            </input>
           </div>
-        </div>
-        <div>
-          <button type='submit'>Submit New Character Data</button>
-          {errorMessage && <p>{errorMessage}</p>}
-        </div>
-      </form>
+          <div>
+            <label className='form-label' htmlFor='weapon-icon'>Weapon Icon: </label>
+            <input
+              type='text'
+              id='weapon-icon'
+              value={weaponIcon}
+              onChange={handleWeaponIcon}>
+            </input>
+            <div>
+              <img
+                className={`form-image ${!weaponIcon ? 'hidden' : ''}`}
+                src={weaponIcon}
+                alt='weapon-icon'
+              />
+            </div>
+          </div>
+          <div>
+            <label className='form-label' htmlFor='character-description'>Character Description: </label>
+            <textarea
+              type='text'
+              id='character-description'
+              value={characterDescription}
+              onChange={handleCharacterDescription}
+              maxLength="250">
+            </textarea>
+          </div>
+          <div className='talent-section'>
+            <h1 className='talent-header'>Talents</h1>
+            <div className='talent'>
+              <h2>Normal Attack</h2>
+              <div>
+                <label className='form-label' htmlFor='normal-attack-name'>Normal Attack Name: </label>
+                <input
+                  type='text'
+                  id='normal-attack-name'
+                  value={attackName}
+                  onChange={handleAttackName}>
+                </input>
+              </div>
+              <div>
+                <label className='form-label' htmlFor='normal-attack-description'>Normal Attack Description: </label>
+                <textarea
+                  type='text'
+                  id='normal-attack-description'
+                  value={attackDescription}
+                  onChange={handleAttackDescription}
+                  maxLength="250">
+                </textarea>
+              </div>
+              <div>
+                <label className='form-label' htmlFor='normal-attack-preview'>Normal Attack Preview: </label>
+                <input
+                  type='text'
+                  id='normal-attack-preview'
+                  value={attackPreview}
+                  onChange={handleAttackPreview}>
+                </input>
+                <div>
+                  <img
+                    className={`form-image ${!attackPreview ? 'hidden' : ''}`}
+                    src={attackPreview}
+                    alt='normal-attack-preview'
+                  />
+                </div>
+              </div>
+              <div>
+                <label className='form-label' htmlFor='normal-attack-icon'>Normal Attack Icon: </label>
+                <input
+                  type='text'
+                  id='normal-attack-icon'
+                  value={attackIcon}
+                  onChange={handleAttackIcon}>
+                </input>
+                <div>
+                  <img
+                    className={`form-image ${!attackIcon ? 'hidden' : ''}`}
+                    src={attackIcon}
+                    alt='normal-attack-icon'
+                  />
+                </div>
+              </div>
+            </div>
+            <div className='talent'>
+              <h2>Elemental Ability</h2>
+              <div>
+                <label className='form-label' htmlFor='ability-name'>Elemental Ability Name: </label>
+                <input
+                  type='text'
+                  id='ability-name'
+                  value={abilityName}
+                  onChange={handleAbilityName}>
+                </input>
+              </div>
+              <div>
+                <label className='form-label' htmlFor='ability-description'>Elemental Ability Description: </label>
+                <textarea
+                  type='text'
+                  id='ability-description'
+                  value={abilityDescription}
+                  onChange={handleAbilityDescription}
+                  maxLength="250">
+                </textarea>
+              </div>
+              <div>
+                <label className='form-label' htmlFor='ability-preview'>Elemental Ability Preview: </label>
+                <input
+                  type='text'
+                  id='ability-preview'
+                  value={abilityPreview}
+                  onChange={handleAbilityPreview}>
+                </input>
+                <div>
+                  <img
+                    className={`form-image ${!abilityPreview ? 'hidden' : ''}`}
+                    src={abilityPreview}
+                    alt='ability-preview'
+                  />
+                </div>
+              </div>
+              <div>
+                <label className='form-label' htmlFor='ability-icon'>Elemental Ability Icon: </label>
+                <input
+                  type='text'
+                  id='ability-icon'
+                  value={abilityIcon}
+                  onChange={handleAbilityIcon}>
+                </input>
+                <div>
+                  <img
+                    className={`form-image ${!abilityIcon ? 'hidden' : ''}`}
+                    src={abilityIcon}
+                    alt='ability-icon'
+                  />
+                </div>
+              </div>
+            </div>
+            <div className='talent'>
+              <h2>Elemental Burst</h2>
+              <div>
+                <label className='form-label' htmlFor='burst-name'>Elemental Burst Name: </label>
+                <input
+                  type='text'
+                  id='burst-name'
+                  value={burstName}
+                  onChange={handleBurstName}>
+                </input>
+              </div>
+              <div>
+                <label className='form-label' htmlFor='burst-description'>Elemental Burst Description: </label>
+                <textarea
+                  type='text'
+                  id='burst-description'
+                  value={burstDescription}
+                  onChange={handleBurstDescription}
+                  maxLength="250">
+                </textarea>
+              </div>
+              <div>
+                <label className='form-label' htmlFor='burst-preview'>Elemental Burst Preview: </label>
+                <input
+                  type='text'
+                  id='burst-preview'
+                  value={burstPreview}
+                  onChange={handleBurstPreview}>
+                </input>
+                <div>
+                  <img
+                    className={`form-image ${!burstPreview ? 'hidden' : ''}`}
+                    src={burstPreview}
+                    alt='burst-preview'
+                  />
+                </div>
+              </div>
+              <div>
+                <label className='form-label' htmlFor='burst-icon'>Elemental Burst Icon: </label>
+                <input
+                  type='text'
+                  id='burst-icon'
+                  value={burstIcon}
+                  onChange={handleBurstIcon}>
+                </input>
+                <div>
+                  <img
+                    className={`form-image ${!burstIcon ? 'hidden' : ''}`}
+                    src={burstIcon}
+                    alt='burst-icon'
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <button type='submit'>Submit New Character Data</button>
+            {errorMessage && <p>{errorMessage}</p>}
+          </div>
+        </form>
+      </div>
     </div>
   )
 }
