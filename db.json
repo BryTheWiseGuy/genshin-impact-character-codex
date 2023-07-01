@@ -712,7 +712,7 @@
           "signature": "Lost Prayer to the Sacred Winds"
         }
       ],
-      "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+      "description": "The daughter of the intrepid and often quite destructive adventurer Alice, Klee takes after her mother in many ways, much to the dismay of the Knights of Favonius whom she has been entrusted to.",
       "talents": [
         {
           "name": "Kaboom!",
@@ -804,7 +804,7 @@
           "signature": "Redhorn Stonethresher"
         }
       ],
-      "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+      "description": "Extremely strong and reliable, Noelle is considered to be \"the maid of all maids\" in the Knights of Favonius, with many thinking she has the ability to be everywhere all at once. She is stubborn, however, and willing to unnecessarily endanger her life at any moment to help someone.",
       "talents": [
         {
           "name": "Favonius Bladework: Maid",
@@ -850,7 +850,7 @@
           "signature": "Song of Broken Pines"
         }
       ],
-      "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+      "description": "Abandoned as an infant, Razor was taken in by the Wolf of the North, Andrius, and raised by his wolf pack in Wolvendom. After a chance encounter with Varka, the current Grand Master of the Knights of Favonius, he has slowly started integrating with humans again.",
       "talents": [
         {
           "name": "Steel Fang",
@@ -1034,7 +1034,7 @@
           "signature": "Polar Star"
         }
       ],
-      "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+      "description": "He is the Eleventh of the Eleven Fatui Harbingers. Wherever he goes, danger follows, and Childe is always eager for a challenge, making him extremely dangerous despite being the youngest member.",
       "talents": [
         {
           "name": "Cutting Torrent",
@@ -2405,7 +2405,7 @@
       "title": "Guardian of Aaru Village",
       "nation": "Sumeru",
       "vision": "hydro",
-      "visionIcon": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/hydro-element-genshin-impact-wiki-guide.png/",
+      "visionIcon": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/hydro-element-genshin-impact-wiki-guide.png",
       "constellation": "Sagitta Scutum",
       "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Sagitta_Scutum_Shape.png/",
       "weapon": [
@@ -2497,7 +2497,7 @@
       "title": "Star of Zubayr Theater",
       "nation": "Sumeru",
       "vision": "hydro",
-      "visionIcon": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/hydro-element-genshin-impact-wiki-guide.png/",
+      "visionIcon": "https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/hydro-element-genshin-impact-wiki-guide.png",
       "constellation": "Lotos Somno",
       "constellationIcon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Lotos_Somno_Shape.png/",
       "weapon": [
@@ -2840,7 +2840,7 @@
         {
           "name": "Molten Inferno",
           "type": "Elemental Skill",
-          "description": "This art of Dehya's own invention changes its method of use depending on the combat situation. Indomitable Flame deals AoE Pyro DMG, and creates a field known as Fiery Sanctum if not other sanctum is present. Ranging Flame will be unleashed should a Fiery Sanctum field already exist. Dehya will perform a leaping attack, dealing AoE Pyro DMG before recreating a Fiery Sanctum field at her new position.",
+          "description": "This art of Dehya's own invention changes its method of use depending on the combat situation. Indomitable Flame deals AoE Pyro DMG, and creates a field known as Fiery Sanctum. Raging Flame will be unleashed should a Fiery Sanctum field already exist. Dehya will then perform a leaping attack.",
           "preview": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Molten_Inferno_Preview.gif/",
           "talentIcon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Talent_Molten_Inferno.png/"
         },

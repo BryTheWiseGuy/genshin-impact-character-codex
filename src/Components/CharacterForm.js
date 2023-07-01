@@ -300,7 +300,7 @@ function CharacterForm({ characters, setCharacters }) {
       <div className='bottom-banner-border'></div>
       <div>
         <form className='character-form' onSubmit={handleNewCharacterSubmit}>
-          <h1>CharacterForm</h1>
+          <h1 className='form-title'>New Character Form</h1>
           <label className='form-label' htmlFor='charactar-name'>Character Name: </label>
           <input
             type='text'
@@ -390,6 +390,7 @@ function CharacterForm({ characters, setCharacters }) {
           <div>
             <label className='form-label' htmlFor='character-rarity'>Rarity: </label>
             <select value={rarity} onChange={handleRarity}>
+              <option disabled value="">Choose a Rarity</option>
               <option value='4'>4 Star</option>
               <option value='5'>5 Star</option>
             </select>
@@ -415,6 +416,7 @@ function CharacterForm({ characters, setCharacters }) {
           <div>
             <label className='form-label' htmlFor='character-vision'>Vision: </label>
             <select value={vision} onChange={handleVision}>
+              <option disabled value="">Choose a Vision</option>
               <option value='Pyro'>Pyro</option>
               <option value='Cryo'>Cryo</option>
               <option value='Electro'>Electro</option>
