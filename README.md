@@ -10,7 +10,7 @@ Genshin.Codex has it's backend deployed on Render (https://genshin-codex.onrende
 
 To view the source code for this project, please fork this repository and clone it to your GitHub using your personal SSH key. Users will need to run npm install in their console for dependencies to be functional. This project also utilizes the react-player library to embed videos into the application. You can find additional information and installation instruction for react-player here: https://www.npmjs.com/package/react-player
 
-The react-player library was selected specifically to eliminate bugs caused by utilizing iframes to embed YouTube videos. Due to YouTubes usage of cookie data, embedding YouTube videos via iframs causes bugs in back button and refresh functionality in the browser.
+The react-player library was selected specifically to eliminate bugs caused by utilizing iframes to embed YouTube videos. Due to YouTube's usage of cookie data, embedding YouTube videos via iframes causes bugs in back button and refresh functionality in the browser.
 
 ### Note:
 
