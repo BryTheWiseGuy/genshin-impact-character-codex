@@ -2,6 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../stylesheets/App.css';
 
+//This component renders all character buttons seen on the home page
+
 function CharacterButton({ character }) {
   const { icon, name, visionIcon, vision } = character;
 

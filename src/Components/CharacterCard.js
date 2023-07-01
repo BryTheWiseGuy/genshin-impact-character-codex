@@ -96,5 +96,5 @@ function CharacterCard({ character }) {
 
 export default CharacterCard
 
-//This component is a card for the character that includes the name, title, affiliation, rarity, nation, vision, and constellation
-//This component utilizes the icon for the image display
+// This component is a card for the character that includes the 
+// name, title, affiliation, rarity, nation, vision, constellation, showcase video, and various images

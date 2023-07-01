@@ -3,6 +3,9 @@ import { Link } from 'react-router-dom'
 import '../stylesheets/Navbar.css'
 import Dropdown from './Dropdown'
 
+// This NavBar contains Home, Characters Dropdown (Should take you to a specific characters page), 
+// and New Character Form.
+
 function Navbar({ characters }) {
   const [click, setClick] = useState(false);
   const [dropdown, setDropdown] = useState(false);
@@ -64,5 +67,3 @@ function Navbar({ characters }) {
 }
 
 export default Navbar
-
-//This NavBar contains Home, Characters Dropdown (Should take you to a specific characters page), and Vision Dropdown (should update which characters are displayed on home screen)

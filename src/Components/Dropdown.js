@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import '../stylesheets/Dropdown.css';
 
+// This component renders the dropdown menu displayed when hovering over characters on the home page
+
 function Dropdown({ characters }) {
     const [click, setClick] = useState(false);
 

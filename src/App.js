@@ -7,6 +7,9 @@ import CharacterPage from "./Components/CharacterPage.js";
 import CharacterForm from "./Components/CharacterForm.js";
 import './stylesheets/App.css';
 
+// The app component contains state and fetch data integral for app functionality,
+// as well as routing path for all pages in the web application
+
 function App() {
   const [characters, setCharacters] = useState([])
 

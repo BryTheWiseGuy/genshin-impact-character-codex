@@ -3,6 +3,11 @@ import FormBanner from '../images/fontaine-concept-art.jpg';
 import ReactPlayer from 'react-player';
 
 function CharacterForm({ characters, setCharacters }) {
+
+  // This component is a form for adding new characters to the website upon their release in the game!
+
+  //=> State variables for input fields
+
   const [characterName, setCharacterName] = useState("");
   const [characterArtwork, setCharacterArtwork] = useState("");
   const [characterIcon, setCharacterIcon] = useState("");
@@ -662,5 +667,3 @@ function CharacterForm({ characters, setCharacters }) {
 }
 
 export default CharacterForm
-
-//This component is a form for adding new characters to the website upon their release in the game!
