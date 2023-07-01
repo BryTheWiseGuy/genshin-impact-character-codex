@@ -12,12 +12,14 @@ import './stylesheets/App.css';
 
 function App() {
   const [characters, setCharacters] = useState([])
+  const [isLoading, setIsLoading] = useState(true)
 
     useEffect(() => {
         fetch(`${process.env.REACT_APP_API_URL}/characters`)
             .then(res => res.json())
             .then(characters => {
                 setCharacters(characters);
+                setIsLoading(false);
             });
     }, []);
 
@@ -29,7 +31,7 @@ function App() {
           <Route path='/' element={
             <>
               <Navbar characters={characters} />
-              <Home characters={characters} />
+              <Home characters={characters} isLoading={isLoading} />
             </>
           } 
           exact />
