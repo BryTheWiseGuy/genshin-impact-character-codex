@@ -16,7 +16,13 @@ The following link is to my backend repository: https://github.com/BryTheWiseGuy
 
 This backend repository is formatted with two JSON files, a db.json and a seeds.json. The seeds.json file should not be updated unless the changes that need to be made are permanent. Any updates via the New Character Form will be updated in the db.json file. The seeds.json file is used to reset the database to its original content, and therefore should not be edited. If testing out the New Character Form, changes to the database can be seen on the Render backend link. Please be sure to run "npm run seed" in your terminal in the json-server-template repository after submitting a new character to reset the database to it's original contents.
 
-### Note:
+### Running The Site Locally:
+
+In order to run the site locally in development mode, users should start by running the json-server in json-server-template. While inside the directory, enter "json-server --watch db/db.json" into the terminal. You should then see the json server start up on http://localhost:3000
+
+After starting the json server, you are then ready to start the dev build. Open another tab in your terminal, go into the genshin-impact-character-codex directory and run npm start. It may prompt you asking if you want to run the site on another port. Simply press Y and the site should start up. At this point you should be good to begin further development locally. Once you are finished, you can press CTRL + C inside the terminal to discontinue the json-server as well as the dev build run.
+
+### Note on Deployed Site:
 
 Because this project has been deployed on the free version of Render, it may take 10-15 seconds for the Render server to start up. Anyone viewing this project may need to refresh a couple of times in order for the website to fully populate.
 
