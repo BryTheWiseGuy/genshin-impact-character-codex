@@ -28,6 +28,10 @@ Screenshots:
 ![Genshin Impact Screenshot](/src/Screenshots/genshin-codex-ss-2.jpg)
 ![Genshin Impact Screenshot](/src/Screenshots/genshin-codex-ss-3.jpg)
 
+In order to properly view this site, users should have their screen resolutions set to 2560 x 1440 - the site was not formatted to run on smaller screen sizes (still learning CSS and how CSS properties work together). If running on a smaller screen size, users will notice some pages like the New Character page does not allow them to scroll past a certain point. This is due to Overflow-y being hidden in the CSS in order to remove white space beneath the images.
+
+In regards to the New Character Submission Form, many of the fields are restricted to URL input only, and the URL has to be copied and pasted into the form field. If the field is not allowing you to type into it, it requires a URL. The description fields are also limited to 250 characters in order to keep pages formatted properly and not cause weird things to happen with the CSS.
+
 ## Roadmap
 
 Currently the search bar in this project does not have functionality, and that will be completed in future updates. Plans for this project in the future include details on every zone in the game, enemies, recipes, weapons, artifacts, and quests. These updates will be implemented in stages, and updates to this roadmap section will be made as these stages are completed.
