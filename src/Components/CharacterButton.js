@@ -27,5 +27,3 @@ function CharacterButton({ character }) {
     </div>
   )
 }
-
-export default CharacterButton
